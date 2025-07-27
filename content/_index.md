@@ -95,6 +95,21 @@ sections:
       columns: '2'
       view: citation
   - block: collection
+    id: projects
+    content:
+      title: Funded Research Projects
+      subtitle: 'Major research grants and innovation initiatives'
+      text: 'Current and recent funded projects focusing on business innovation, supply chain inclusivity, and economic development. [View all projects →](/project/)'
+      count: 3
+      filters:
+        folders:
+          - project
+        exclude_featured: false
+      order: desc
+    design:
+      columns: '2'
+      view: card
+  - block: collection
     id: talks
     content:
       title: Featured Talks

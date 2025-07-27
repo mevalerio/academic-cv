@@ -125,6 +125,39 @@ London South Bank University
 📧 ficcadv2@lsbu.ac.uk  
 🔗 [LinkedIn](https://www.linkedin.com/in/valerio-ficcadenti/) | [GitHub](https://github.com/mevalerio) | [Google Scholar](https://scholar.google.com/citations?user=iC-WRSMAAAAJ&hl=it)
 
+## AI Assistant Configuration
+
+This section provides context and instructions for AI assistants working on this project.
+
+### Project Context
+- **Owner**: Valerio Ficcadenti, Associate Professor at London South Bank University
+- **Purpose**: Professional academic website showcasing research and teaching expertise
+- **Target Audience**: Academic colleagues, industry recruiters, students, research collaborators
+- **Framework**: Hugo with Hugo Blox Builder theme
+
+### AI Assistant Instructions
+When working on this project, please:
+
+1. **Maintain Academic Standards**: Use scholarly tone while ensuring accessibility
+2. **Focus on Professional Appeal**: Content should attract both academic and industry opportunities  
+3. **Follow Hugo Blox Conventions**: Use correct syntax, file structure, and naming conventions
+4. **Preserve Social Network Configuration**: Use the working `social:` format with proper `icon_pack` values
+5. **Ensure Responsive Design**: Test changes across different screen sizes
+6. **Optimize for Discovery**: Include proper SEO metadata and structured content
+
+### Common Tasks
+- Adding publications, talks, or experience entries
+- Updating team member profiles and collaborations
+- Modifying homepage layout and content organization
+- Managing social media links and contact information
+- Optimizing content for academic job market and industry recruitment
+
+### Technical Notes
+- Social icons use Hugo Blox classic format (`social:` with `icon_pack`)
+- Content is organized in `/content/` directory with proper frontmatter
+- Deployment via GitHub Actions to GitHub Pages
+- Local development: `hugo server` for testing changes
+
 ---
 
 *Last updated: July 2025*
