@@ -1,0 +1,122 @@
+/* Custom Experience Timeline Styling for Hugo Blox */
+
+/* Company color definitions */
+:root {
+  --lsbu-black: #000000;
+  --deloitte-green: #00A651;
+  --univpm-red: #E31E24;
+  --fao-blue: #009edb;
+}
+
+/* Target the Hugo Blox experience timeline structure */
+
+/* LSBU Position 1 - FILLED (first company) */
+.row.experience:nth-child(1) {
+  .badge.badge-pill.border {
+    background-color: var(--lsbu-black) !important;
+    border-color: var(--lsbu-black) !important;
+  }
+  
+  .card {
+    border-left: 4px solid var(--lsbu-black) !important;
+  }
+  
+  .col.border-right {
+    border-color: var(--lsbu-black) !important;
+  }
+}
+
+/* LSBU Positions 2-3 - EMPTY (same company) */
+.row.experience:nth-child(2),
+.row.experience:nth-child(3) {
+  .badge.badge-pill.border {
+    background-color: white !important;
+    border-color: var(--lsbu-black) !important;
+    border-width: 3px !important;
+  }
+  
+  .card {
+    border-left: 4px solid var(--lsbu-black) !important;
+  }
+  
+  .col.border-right {
+    border-color: var(--lsbu-black) !important;
+  }
+}
+
+/* Deloitte Position 4 - FILLED (company change) */
+.row.experience:nth-child(4) {
+  .badge.badge-pill.border {
+    background-color: var(--deloitte-green) !important;
+    border-color: var(--deloitte-green) !important;
+  }
+  
+  .card {
+    border-left: 4px solid var(--deloitte-green) !important;
+  }
+  
+  .col.border-right {
+    border-color: var(--deloitte-green) !important;
+  }
+}
+
+/* University Position 5 - FILLED (company change) */
+.row.experience:nth-child(5) {
+  .badge.badge-pill.border {
+    background-color: var(--univpm-red) !important;
+    border-color: var(--univpm-red) !important;
+  }
+  
+  .card {
+    border-left: 4px solid var(--univpm-red) !important;
+  }
+  
+  .col.border-right {
+    border-color: var(--univpm-red) !important;
+  }
+}
+
+/* FAO Position 6 - FILLED (company change) */
+.row.experience:nth-child(6) {
+  .badge.badge-pill.border {
+    background-color: var(--fao-blue) !important;
+    border-color: var(--fao-blue) !important;
+  }
+  
+  .card {
+    border-left: 4px solid var(--fao-blue) !important;
+  }
+  
+  .col.border-right {
+    border-color: var(--fao-blue) !important;
+  }
+}
+
+/* Enhanced styling for the timeline */
+.row.experience {
+  /* Style the timeline line segments */
+  .col.border-right {
+    border-width: 2px !important;
+  }
+  
+  /* Style the badges/bullets */
+  .badge.badge-pill.border {
+    width: 20px !important;
+    height: 20px !important;
+    border-radius: 50% !important;
+    border-width: 3px !important;
+    min-width: 20px !important;
+    min-height: 20px !important;
+    max-width: 20px !important;
+    max-height: 20px !important;
+    padding: 0 !important;
+    line-height: 1 !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    box-sizing: border-box !important;
+    margin: auto !important;
+    position: relative !important;
+    z-index: 2 !important;
+  }
+}

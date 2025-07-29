@@ -30,6 +30,8 @@ sections:
         - title: Associate Professor in Business Research Methods
           company: Business School - London South Bank University (UK)
           company_url: 'https://www.lsbu.ac.uk/our-schools/business'
+          company_logo: 'lsbu'
+          location: London, UK
           department: Dep. of Finance, Economics, Accounting and Analytics
           date_start: '2023-08-01'
           date_end: ''
@@ -46,6 +48,8 @@ sections:
         - title: Senior Lecturer in Business Research Methods
           company: Business School - London South Bank University (UK)
           company_url: 'https://www.lsbu.ac.uk/our-schools/business'
+          company_logo: 'lsbu'
+          location: London, UK
           department: Dep. of Marketing, Management and People
           date_start: '2020-01-01'
           date_end: '2023-07-30'
@@ -58,6 +62,8 @@ sections:
         - title: Deputy Director of Research and Enterprise Office
           company: Business School - London South Bank University (UK)
           company_url: 'https://www.lsbu.ac.uk/our-schools/business'
+          company_logo: 'lsbu'
+          location: London, UK
           date_start: '2020-01-01'
           date_end: '2022-12-31'
           description: |2-
@@ -67,6 +73,8 @@ sections:
         - title: Pricing Specialist in Derivatives Evaluation
           company: Deloitte's Pricing Centre (UK)
           company_url: 'https://www2.deloitte.com/uk/en/explore/home.html'
+          company_logo: 'Deloitte'
+          location: London, UK
           date_start: '2018-01-01'
           date_end: '2019-12-31'
           description: |2-
@@ -79,6 +87,8 @@ sections:
         - title: Postdoctoral Researcher in Quantitative Finance
           company: Faculty of Economics, Polytechnic University of Marche (Italy)
           company_url: 'https://www.econ.univpm.it/content/department-management?language=en'
+          company_logo: 'Logo_Università_Politecnica_delle_Marche'
+          location: Ancona, Italy
           department: Dep. of Management
           date_start: '2018-01-01'
           date_end: '2018-12-31'
@@ -92,6 +102,8 @@ sections:
         - title: Consultant and Intern in Financial Data Analytics
           company: FAO - Food and Agriculture Organization of the United Nations (Italy)
           company_url: 'https://www.fao.org/home/en'
+          company_logo: 'FAO_logo'
+          location: Rome, Italy
           department: CSFT – Treasury / Finance Division
           date_start: '2015-01-01'
           date_end: '2016-12-31'

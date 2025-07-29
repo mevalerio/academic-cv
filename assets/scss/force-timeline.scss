@@ -1,0 +1,17 @@
+/* Clean override - ensure no conflicting timeline styles */
+
+/* Remove any default timeline elements that might interfere */
+.timeline-marker,
+.timeline-icon,
+.step-marker,
+.experience-marker,
+.vertical-timeline-element-icon {
+  display: none !important;
+}
+
+/* Remove default timeline lines that might conflict */
+.timeline::before,
+.vertical-timeline::before,
+.stepper::before {
+  display: none !important;
+}
