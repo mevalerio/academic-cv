@@ -9,7 +9,8 @@ last_name: Ficcadenti
 
 # Status emoji
 status:
-  icon: ":wave:"
+  icon: 👋
+  text: Hello!
 
 # Is this the primary user of the site?
 superuser: true
@@ -149,10 +150,10 @@ languages:
 
 Hi there! I am Valerio Ficcadenti — welcome to my corner of the web!
 
-I teach research methods mostly, working with around 500 students each year as they approach the end of their academic journey. Together, we explore socio-economic phenomena through cool datasets, fostering curiosity in business and management science.
+I teach research methods mostly, working with around 500 students each year as they approach the end of their academic journey, writing their theses. Together, we explore socio-economic phenomena through cool datasets, fostering curiosity in business and management science.
 
-My journey spans academia, industry, and even local governance, where I have learned that even small decisions can make a big difference.
+My journey spans academia, industry, and even local level policy making, where I have learned that even small decisions can make a big difference.
 
 I am especially proud to have studied Informatics at [Technical Industrial Institute "G. and M. Montani"](https://www.istitutomontani.edu.it/web/storia/), a place that shaped me and introduced me to lifelong friends.
 
-Outside work, you will find me cycling , kickboxing  (black belt!), diving into geopolitical news , or battling it out in board games  like Catan.
+Outside work, you will find me cycling 🚴, kickboxing 🥊 (black belt!), diving into geopolitical news 📰, or battling it out in board games 🎲 like Catan.

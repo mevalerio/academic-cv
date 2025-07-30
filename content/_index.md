@@ -60,7 +60,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 2
       # Filter on criteria
       filters:
         folders:
@@ -76,6 +76,11 @@ sections:
       offset: 0
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
+      # Add link to view all posts
+      archive:
+        enable: true
+        text: "View all posts"
+        link: "post/"
     design:
       # Choose a layout view
       view: compact
