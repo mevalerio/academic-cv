@@ -1,0 +1,50 @@
+/* Custom icon theme handling for dark mode */
+
+/* Target skill icons specifically */
+.skills .featurette-icon img[src*="bloomberg.svg"],
+.skills .featurette-icon img[src*="overleaf.svg"],
+.featurette-icon img[src*="bloomberg.svg"],
+.featurette-icon img[src*="overleaf.svg"],
+img[src*="bloomberg.svg"],
+img[src*="overleaf.svg"] {
+  /* Default state - no filter for light mode */
+  filter: none;
+}
+
+/* Dark mode filters */
+@media (prefers-color-scheme: dark) {
+  .skills .featurette-icon img[src*="bloomberg.svg"],
+  .skills .featurette-icon img[src*="overleaf.svg"],
+  .featurette-icon img[src*="bloomberg.svg"],
+  .featurette-icon img[src*="overleaf.svg"],
+  img[src*="bloomberg.svg"],
+  img[src*="overleaf.svg"] {
+    filter: invert(1) brightness(100%) !important;
+  }
+}
+
+/* Additional dark mode selectors for different theme implementations */
+[data-theme="dark"] .skills .featurette-icon img[src*="bloomberg.svg"],
+[data-theme="dark"] .skills .featurette-icon img[src*="overleaf.svg"],
+[data-theme="dark"] .featurette-icon img[src*="bloomberg.svg"],
+[data-theme="dark"] .featurette-icon img[src*="overleaf.svg"],
+[data-theme="dark"] img[src*="bloomberg.svg"],
+[data-theme="dark"] img[src*="overleaf.svg"],
+.dark .skills .featurette-icon img[src*="bloomberg.svg"],
+.dark .skills .featurette-icon img[src*="overleaf.svg"],
+.dark .featurette-icon img[src*="bloomberg.svg"],
+.dark .featurette-icon img[src*="overleaf.svg"],
+.dark img[src*="bloomberg.svg"],
+.dark img[src*="overleaf.svg"] {
+  filter: invert(1) brightness(100%) !important;
+}
+
+/* Body class based dark mode */
+body.dark .skills .featurette-icon img[src*="bloomberg.svg"],
+body.dark .skills .featurette-icon img[src*="overleaf.svg"],
+body.dark .featurette-icon img[src*="bloomberg.svg"],
+body.dark .featurette-icon img[src*="overleaf.svg"],
+body.dark img[src*="bloomberg.svg"],
+body.dark img[src*="overleaf.svg"] {
+  filter: invert(1) brightness(100%) !important;
+}

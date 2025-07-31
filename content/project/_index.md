@@ -1,21 +1,21 @@
 ---
-title: Funded Research Projects
-date: 2022-10-24
+title: Funded Projects
+date: 2025-01-01
 
 # Page type
 type: landing
 
 # Page SEO
 seo:
-  title: Funded Research Projects
-  description: Major research grants focusing on business innovation, inclusive supply chains, and economic development initiatives.
+  title: Funded Projects
+  description: Grants focusing on business innovation, inclusive supply chains, and economic development initiatives.
 
 sections:
   - block: collection
     content:
-      title: Funded Research Projects
-      subtitle: 'Business innovation and economic development research'
-      text: 'Portfolio of funded research projects addressing critical challenges in business innovation, supply chain inclusivity, and economic development. These projects demonstrate expertise in applied research, stakeholder engagement, and policy-relevant analysis across diverse business and social contexts.'
+      title: Funded Projects
+      subtitle: 'Business innovation and economic development projects focussing on SMEs'
+      text: 'Portfolio of funded projects addressing critical challenges for SMEs dealing with supply chain inclusivity and economic development. These projects demonstrate expertise in applied research, stakeholder engagement, and policy-relevant analysis across diverse business and social contexts.'
       count: 0
       filters:
         author: ''
