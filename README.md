@@ -43,17 +43,29 @@ This website serves as the professional academic portfolio for **Valerio Ficcade
    cd academic-cv
    ```
 
-2. **Install Hugo** (if not already installed):
+2. **Install Hugo Extended** (Required version 0.123+ with extended features):
+   
+   > **Important**: This website requires Hugo Extended version 0.123 or higher to compile properly. The extended version includes SCSS/Sass support needed for the Hugo Blox theme.
+   
    ```bash
-   # Ubuntu/Debian
+   # Ubuntu/Debian - Install specific version
+   wget https://github.com/gohugoio/hugo/releases/download/v0.123.3/hugo_extended_0.123.3_linux-amd64.deb
+   sudo dpkg -i hugo_extended_0.123.3_linux-amd64.deb
+   
+   # Alternative: Install via apt (may not have latest version)
    sudo apt install hugo
    
-   # macOS
+   # macOS - Install via Homebrew
    brew install hugo
    
-   # Windows
+   # Windows - Install via Chocolatey
    choco install hugo-extended
+   
+   # Verify installation
+   hugo version
    ```
+   
+   **Note**: If you encounter build errors, ensure you have the **extended** version of Hugo installed, not the standard version.
 
 3. **Run the development server**:
    ```bash
@@ -61,6 +73,21 @@ This website serves as the professional academic portfolio for **Valerio Ficcade
    ```
 
 4. **Open your browser** and visit `http://localhost:1313`
+
+## Troubleshooting
+
+### Hugo Version Issues
+If you encounter build errors or the site doesn't compile properly:
+
+1. **Check Hugo version**: Run `hugo version` - you need Hugo Extended v0.123.3 or higher
+2. **Install Hugo Extended**: The standard Hugo version lacks SCSS support required by Hugo Blox
+3. **Clear cache**: Delete `resources/_gen/` and `.hugo_build.lock` if they exist, then retry
+4. **Module updates**: Run `hugo mod get -u` to update dependencies
+
+### Common Error Messages
+- `Error: cannot find module for path "github.com/HugoBlox/..."` → Run `hugo mod get -u`
+- `Error: TOCSS: failed to transform "scss/..."` → Install Hugo Extended version
+- `port 1313 already in use` → Use `hugo server --port 1314` or kill existing Hugo processes
 
 ## Customization
 
