@@ -3,7 +3,7 @@ title: 'BIG Integrate Programme'
 subtitle: 'Supply Chain Management and Community Wealth Building for South London SMEs'
 
 # Summary for listings and search engines
-summary: A fully funded supply chain management training programme for South London-based businesses and third sector organisations, focusing on procurement and social value through Community Wealth Building principles.
+summary: A £100,000 supply chain management training programme for South London-based businesses and third sector organisations, funded by the London Borough of Richmond upon Thames through the BIG South London partnership, focusing on procurement and social value through Community Wealth Building principles.
 
 # Link this project with posts, talks, or publications
 projects: []
@@ -33,6 +33,14 @@ links:
   url: https://big-knowledge.co.uk/programmes/integrate/
   icon_pack: fas
   icon: external-link-alt
+- name: Workshop Series Outline
+  url: https://big-knowledge.co.uk/programmes/integrate/integrate-workshops/
+  icon_pack: fas
+  icon: chalkboard-teacher
+- name: Programme Report (PDF)
+  url: 8113-End-of-Programme-report-AW-WEB-PAGES.pdf
+  icon_pack: fas
+  icon: file-pdf
 - name: BIG South London
   url: https://southlondonpartnership.co.uk/economy/big-south-london/
   icon_pack: fas
@@ -64,6 +72,8 @@ The **BIG Integrate Programme** was an ambitious initiative delivered under the 
 ## 📆 Duration and Funding
 
 Funded by [BIG South London partnership](https://southlondonpartnership.co.uk/economy/big-south-london/) via the **London Borough of Richmond upon Thames**, the programme commenced in **April 2022** and concluded in **September 2023**, with a total funding envelope of approximately **£100,000**.
+
+Powered by the South London Partnership, a subregional collaboration of five London boroughs: **Croydon**, **Kingston upon Thames**, **Merton**, **Richmond upon Thames** and **Sutton**.
 
 ---
 
