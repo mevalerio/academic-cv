@@ -157,3 +157,5 @@ My journey spans academia, industry, and even local level policy making, where I
 I am especially proud to have studied Informatics at [Technical Industrial Institute "G. and M. Montani"](https://www.istitutomontani.edu.it/web/storia/), a place that shaped me and introduced me to lifelong friends.
 
 Outside work, you will find me cycling 🚴, kickboxing 🥊 (black belt!), diving into geopolitical news 📰, or battling it out in board games 🎲 like Catan.
+
+And yes — this website was obviously unnecessary! I built it to learn and showcase new skills. It is powered by a bootstrapped Hugo Blox template, the code is on GitHub, and, of course, AI agents were great companions throughout this journey.
