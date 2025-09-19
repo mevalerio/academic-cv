@@ -14,8 +14,7 @@ sections:
   - block: collection
     content:
       title: Funded Projects
-      subtitle: 'Business innovation and economic development projects focussing on SMEs'
-      text: 'Portfolio of funded projects addressing critical challenges for SMEs dealing with supply chain inclusivity and economic development. These projects demonstrate expertise in applied research, stakeholder engagement, and policy-relevant analysis across diverse business and social contexts.'
+      subtitle: 'This page is dedicated to funded projects'
       count: 0
       filters:
         author: ''

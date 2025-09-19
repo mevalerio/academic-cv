@@ -17,24 +17,10 @@ organizations:
   - name: London South Bank University
     url: 'https://www.lsbu.ac.uk/'
 
-# Short bio (displayed in user profile at end of posts)
-bio: PhD student researching business and finance under the supervision of Dr. Valerio Ficcadenti.
-
-interests:
-  - Business Research
-  - Finance
-  - Quantitative Methods
-
-education:
-  courses:
-    - course: PhD in Business (Ongoing)
-      institution: London South Bank University, UK
-      year: 2022 - Present
-
-# Social/Academic Networking
-profiles:
-  - icon: envelope
-    url: 'mailto:felipe.lago@lsbu.ac.uk'
+social:
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://www.linkedin.com/in/felipe-villasuso-lago-54047a122/?originalSubdomain=ae'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -46,7 +32,3 @@ user_groups:
 authors:
   - felipe-lago
 ---
-
-Felipe Lago is a part-time PhD student at London South Bank University's Business School, working under the co-supervision of Dr. Valerio Ficcadenti (Second Supervisor) since 2022. His research focuses on business and finance, applying quantitative methods to solve complex business problems.
-
-As a part-time doctoral candidate, Felipe brings practical industry experience to his academic research, contributing to the intersection of theoretical knowledge and real-world applications in business and finance.

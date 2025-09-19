@@ -17,27 +17,14 @@ organizations:
   - name: London South Bank University
     url: 'https://www.lsbu.ac.uk/'
 
-# Short bio (displayed in user profile at end of posts)
-bio: PhD graduate in Business (2020) who completed his doctoral research under the co-supervision of Dr. Valerio Ficcadenti.
+social:
+  - icon: globe
+    icon_pack: fas
+    link: 'https://www.rcl.ac.uk/our-community/our-rcl-team/'
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://www.linkedin.com/in/dr-rishiram-aryal-fhea-pgcert-57085750/'
 
-interests:
-  - Quantitative Business Methods
-  - Business Analytics
-  - Statistical Applications
-
-education:
-  courses:
-    - course: PhD in Business
-      institution: London South Bank University, UK
-      year: 2020
-    - course: Previous Degree
-      institution: TBD
-      year: TBD
-
-# Social/Academic Networking
-profiles:
-  - icon: envelope
-    url: 'mailto:rishiram.aryal@example.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -49,9 +36,6 @@ user_groups:
 authors:
   - rishiram-aryal
 ---
+---
 
-Dr. Rishiram Aryal successfully completed his PhD in Business at London South Bank University in 2020, working as a full-time doctoral student under the co-supervision of Dr. Valerio Ficcadenti (Second Supervisor). His research contributed to quantitative business methods and analytics.
-
-Dr. Aryal's doctoral work advanced the field of quantitative business methods, with particular focus on statistical applications and analytical frameworks. His research provided valuable insights into the application of advanced statistical methods in business contexts.
-
-*Current position and achievements to be updated based on available information.*
+Dr. Rishiram Aryal successfully completed his PhD in Business at London South Bank University in 2020, working as a full-time doctoral student under the co-supervision of Dr. Valerio Ficcadenti (Second Supervisor).

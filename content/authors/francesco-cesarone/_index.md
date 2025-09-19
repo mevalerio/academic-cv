@@ -8,6 +8,11 @@ superuser: false
 # Role/position
 role: Researcher
 
+social:
+  - icon: globe
+    icon_pack: fas
+    link: 'https://www.francescocesarone.com/'
+
 user_groups:
   - coauthor
 

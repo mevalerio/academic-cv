@@ -15,7 +15,6 @@ sections:
     content:
       title: Recent & Upcoming Talks
       subtitle: 'Conference presentations and academic talks'
-      text: 'A collection of my recent presentations at international conferences and academic seminars.'
       count: 0
       filters:
         author: ''

@@ -22,11 +22,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Visiting PhD student from Roma Tre University (Oct 2024 - March 2025), supervised by Dr. Valerio Ficcadenti at LSBU and Prof. Francesco Cesarone at home institution.
 
-interests:
-  - Finance
-  - Quantitative Methods
-  - Business Analytics
-
 education:
   courses:
     - course: PhD in Finance (Ongoing)
@@ -52,10 +47,10 @@ authors:
   - alessio-di-paolo
 ---
 
-Alessio Di Paolo is a visiting PhD student from Roma Tre University (Italy), conducting research at London South Bank University's Business School from **October 2024 to March 2025**. 
+Alessio Di Paolo is a PhD student from Roma Tre University (Italy); he has conducted research at London South Bank University's Business School from **October 2024 to March 2025**.
 
 **Supervision Arrangement:**
 - **LSBU Supervisor**: Dr. Valerio Ficcadenti  
 - **Home Supervisor**: [Prof. Francesco Cesarone](https://www.uniroma3.it/persone/M1pzTHEwcUdFNmYwWUc2ZllLYSsxWitoM3Rad2FzKzFkSjFHanRMeHFRZz0=/), Roma Tre University (Italy)
 
-During his 6-month visiting period, Alessio is working on advanced research in finance and quantitative methods, benefiting from the collaborative expertise between Roma Tre University and London South Bank University. His research contributes to the international academic exchange and strengthens the research partnership between the two institutions.
+During his 6-month visiting period, Alessio worked on studying the relationships between financial portfolios and rank-size laws.

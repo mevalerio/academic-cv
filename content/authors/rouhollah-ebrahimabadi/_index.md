@@ -17,27 +17,13 @@ organizations:
   - name: London South Bank University
     url: 'https://www.lsbu.ac.uk/'
 
-# Short bio (displayed in user profile at end of posts)
-bio: PhD graduate in Business (2021) who completed his doctoral research under the co-supervision of Dr. Valerio Ficcadenti.
-
-interests:
-  - Applied Economics
-  - Business Analytics
-  - Quantitative Methods
-
-education:
-  courses:
-    - course: PhD in Business
-      institution: London South Bank University, UK
-      year: 2021
-    - course: Previous Degree
-      institution: TBD
-      year: TBD
-
-# Social/Academic Networking
-profiles:
-  - icon: envelope
-    url: 'mailto:rouhollah.ebrahimabadi@example.com'
+social:
+  - icon: globe
+    icon_pack: fas
+    link: 'https://www.lsbu.ac.uk/'
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://www.linkedin.com/in/rouhollah-ebrahimabadi-17014bb3/'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -49,9 +35,6 @@ user_groups:
 authors:
   - rouhollah-ebrahimabadi
 ---
+---
 
-Dr. Rouhollah Ebrahimabadi successfully completed his PhD in Business at London South Bank University in 2021, working as a full-time doctoral student under the co-supervision of Dr. Valerio Ficcadenti (Second Supervisor). His research focused on applied economics and business analytics.
-
-Dr. Ebrahimabadi's doctoral work made significant contributions to the application of economic principles in business contexts, with particular emphasis on quantitative methodologies and analytical frameworks. His research bridged economic theory with practical business applications.
-
-*Current position and achievements to be updated based on available information.*
+Dr. Rouhollah Ebrahimabadi successfully completed his PhD in Business at London South Bank University in 2021, working as a full-time doctoral student under the co-supervision of Dr. Valerio Ficcadenti (Second Supervisor). His research focused on Finance and Machine Learning.

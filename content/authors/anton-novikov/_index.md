@@ -17,24 +17,16 @@ organizations:
   - name: London South Bank University
     url: 'https://www.lsbu.ac.uk/'
 
-# Short bio (displayed in user profile at end of posts)
-bio: Full-time PhD student under the primary supervision of Dr. Valerio Ficcadenti, focusing on advanced business research methods.
-
-interests:
-  - Business Research Methods
-  - Advanced Analytics
-  - Quantitative Analysis
+social:
+  - icon: globe
+    icon_pack: fas
+    link: 'https://researchportal.lsbu.ac.uk/en/persons/anton-novikov'
 
 education:
   courses:
     - course: PhD in Business (Ongoing)
       institution: London South Bank University, UK
       year: 2021 - Present
-
-# Social/Academic Networking
-profiles:
-  - icon: envelope
-    url: 'mailto:anton.novikov@lsbu.ac.uk'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -47,6 +39,4 @@ authors:
   - anton-novikov
 ---
 
-Anton Novikov is a full-time PhD student at London South Bank University's Business School, working under the primary supervision of Dr. Valerio Ficcadenti (Director of Studies) since 2021. His research focuses on advanced business research methods and quantitative analysis.
-
-As a dedicated full-time doctoral researcher, Anton is developing innovative methodological approaches that contribute to the advancement of business research, with particular emphasis on analytical frameworks and empirical methods.
+Anton Novikov is a full-time PhD student at London South Bank University's Business School, working under the primary supervision of Dr. Valerio Ficcadenti (Director of Studies) since 2021. His research focuses on Financial Risk Management.
