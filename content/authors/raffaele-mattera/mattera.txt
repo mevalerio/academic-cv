@@ -1,0 +1,12 @@
+Dr. Mattera's research encompasses time series and panel data with spatial, network, or grouped structures, as well as interval-valued time series. His work includes developing innovative methodologies for network log-ARCH models for stock market volatility forecasting, spatio-temporal hierarchical clustering, and forecast reconciliation techniques.
+
+He currently serves as **Associate Editor** for multiple prestigious journals including:
+- Communication in Statistics - Simulation and Computation (Taylor & Francis)
+- Communications in Statistics - Theory and Methods (Taylor & Francis)  
+- Humanities and Social Sciences Communications (Springer Nature)
+
+His recent notable publications include "Network log-ARCH models for forecasting stock market volatility" (2024), "Spatio-temporal hierarchical clustering of interval time series with application to suicide rates in Europe" (2024), and "Improving out-of-sample forecasts of stock price indexes with forecast reconciliation and clustering" (2024).
+
+Dr. Mattera's interdisciplinary approach bridges computational statistics, econometrics, and data science, contributing to methodological advances in time series clustering, financial econometrics, spatial statistics, and network modeling. His research has practical applications in financial markets, economic policy, environmental science, and social data analysis.
+
+Previously, he served as Research Fellow at Sapienza University of Rome (2022-2023) and Assistant Professor at Sapienza University (2023-2024) before joining the University of Campania. His international collaboration network spans across Europe and beyond, with research partnerships focusing on innovative statistical methodologies for complex data structures.

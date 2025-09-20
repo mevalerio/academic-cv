@@ -33,7 +33,8 @@ education:
 
 # Social/Academic Networking
 profiles:
-  - icon: envelope
+  - icon: at-symbol
+    icon_pack: fas
     url: 'mailto:alessio.dipaolo@uniroma3.it'
 
 # Highlight the author in author lists? (true/false)
