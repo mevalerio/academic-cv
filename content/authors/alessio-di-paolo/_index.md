@@ -48,10 +48,3 @@ authors:
   - alessio-di-paolo
 ---
 
-Alessio Di Paolo is a PhD student from Roma Tre University (Italy); he has conducted research at London South Bank University's Business School from **October 2024 to March 2025**.
-
-**Supervision Arrangement:**
-- **LSBU Supervisor**: Dr. Valerio Ficcadenti  
-- **Home Supervisor**: [Prof. Francesco Cesarone](https://www.uniroma3.it/persone/M1pzTHEwcUdFNmYwWUc2ZllLYSsxWitoM3Rad2FzKzFkSjFHanRMeHFRZz0=/), Roma Tre University (Italy)
-
-During his 6-month visiting period, Alessio worked on studying the relationships between financial portfolios and rank-size laws.

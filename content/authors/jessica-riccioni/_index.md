@@ -19,9 +19,6 @@ organizations:
   - name: Department of Social and Economic Sciences
     url: "https://web.uniroma1.it/disse"
 
-# Short bio (displayed in user profile at end of posts)
-bio: Research Fellow at Sapienza University of Rome's Department of Social and Economic Sciences, specializing in reliability stochastic systems, financial risk analysis, and statistical methods for decision support systems. Expert in Benford's law applications and rational expectations theory.
-
 # Social/Academic Networking
 social:
   - icon: at-symbol
