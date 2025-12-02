@@ -15,7 +15,131 @@ seo:
 
 
 sections:
+  - block: markdown
+    content:
+      title: ''
+      text: |
+        <style>
+        .experience-cards {
+          display: grid;
+          grid-template-columns: repeat(3, 1fr);
+          gap: 25px;
+          margin: 40px 0;
+          padding: 0 10px;
+        }
+        .exp-card {
+          background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+          padding: 30px 20px;
+          border-radius: 15px;
+          color: white;
+          text-align: center;
+          text-decoration: none;
+          transition: all 0.3s ease;
+          box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+          position: relative;
+          overflow: hidden;
+        }
+        .exp-card:hover {
+          transform: translateY(-5px);
+          box-shadow: 0 8px 25px rgba(0,0,0,0.2);
+          text-decoration: none;
+        }
+        .exp-card::before {
+          content: '';
+          position: absolute;
+          top: 0;
+          left: 0;
+          right: 0;
+          bottom: 0;
+          background: rgba(255,255,255,0.1);
+          opacity: 0;
+          transition: opacity 0.3s ease;
+        }
+        .exp-card:hover::before {
+          opacity: 1;
+        }
+        .exp-card-icon {
+          font-size: 48px;
+          margin-bottom: 15px;
+          display: block;
+        }
+        .exp-card-title {
+          margin: 0 0 10px 0;
+          font-size: 20px;
+          font-weight: bold;
+          color: white;
+        }
+        .exp-card-subtitle {
+          margin: 0 0 10px 0;
+          font-size: 14px;
+          opacity: 0.9;
+          color: white;
+        }
+        .exp-card-stats {
+          margin: 10px 0 0 0;
+          font-size: 13px;
+          opacity: 0.85;
+          color: white;
+        }
+        .exp-card.positions { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); }
+        .exp-card.skills { background: linear-gradient(135deg, #06beb6 0%, #48b1bf 100%); }
+        .exp-card.awards { background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); }
+        .exp-card.phd { background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); }
+        .exp-card.visiting { background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); }
+        .exp-card.examiner { background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); }
+        
+        @media (max-width: 768px) {
+          .experience-cards {
+            grid-template-columns: 1fr;
+          }
+        }
+        </style>
+        
+        <div class="experience-cards">
+          <a href="#experience" class="exp-card positions">
+            <span class="exp-card-icon">🏢</span>
+            <h3 class="exp-card-title">Professional Positions</h3>
+            <p class="exp-card-subtitle">Career journey & roles</p>
+            <p class="exp-card-stats">6 positions • 10+ years</p>
+          </a>
+          
+          <a href="#skills" class="exp-card skills">
+            <span class="exp-card-icon">💻</span>
+            <h3 class="exp-card-title">Skills</h3>
+            <p class="exp-card-subtitle">Technical expertise & soft skills</p>
+          </a>
+          
+          <a href="#awards" class="exp-card awards">
+            <span class="exp-card-icon">🏆</span>
+            <h3 class="exp-card-title">Awards</h3>
+            <p class="exp-card-subtitle">Recognition & achievements</p>
+          </a>
+          
+          <a href="#phd-supervision" class="exp-card phd">
+            <span class="exp-card-icon">👨‍🎓</span>
+            <h3 class="exp-card-title">PhD Students supervision</h3>
+            <p class="exp-card-subtitle">Current & completed supervision</p>
+            <p class="exp-card-stats">3 current • 4 completed</p>
+          </a>
+          
+          <a href="#visiting-phd" class="exp-card visiting">
+            <span class="exp-card-icon">🌍</span>
+            <h3 class="exp-card-title">Visiting PhD Students supervision</h3>
+            <p class="exp-card-subtitle">International students</p>
+          </a>
+          
+          <a href="#examiner" class="exp-card examiner">
+            <span class="exp-card-icon">📝</span>
+            <h3 class="exp-card-title">PhD Examination</h3>
+            <p class="exp-card-subtitle">Internal & external duties</p>
+            <p class="exp-card-stats">3 internal • 1 external</p>
+          </a>
+        </div>
+    design:
+      columns: '1'
+      
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -116,6 +240,7 @@ sections:
       columns: '1'
       
   - block: skills
+    id: skills
     content:
       title: Skills
       text: 'My technical and professional expertise across various domains.'
@@ -124,6 +249,7 @@ sections:
       columns: '1'
 
   - block: accomplishments
+    id: awards
     content:
       title: Awards
       subtitle: ''
@@ -146,6 +272,7 @@ sections:
       columns: '1'
       
   - block: accomplishments
+    id: phd-supervision
     content:
       title: PhD Supervision
       subtitle: 'Doctoral students under my supervision and guidance'
@@ -221,6 +348,7 @@ sections:
       columns: '1'
       
   - block: accomplishments
+    id: visiting-phd
     content:
       title: Visiting PhD Supervision
       subtitle: 'International visiting doctoral students under supervision'
@@ -250,6 +378,7 @@ sections:
       columns: '1'
       
   - block: accomplishments
+    id: examiner
     content:
       title: PhD Examination - Internal Examiner
       subtitle: 'Internal examining duties at London South Bank University'

@@ -131,12 +131,12 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: Location
       subtitle:
       text: |-
-        Get in touch to discuss research collaborations, academic opportunities, or potential partnerships. I welcome inquiries from students, researchers, and industry professionals interested in quantitative finance and statistical modeling.
+        Based in Central London
       # Contact (add or remove contact options as necessary)
-      email: ficcadv2@lsbu.ac.uk
+      email: ''
       phone: ''
       appointment_url: ''
       address:
@@ -147,34 +147,17 @@ sections:
         country: United Kingdom
         country_code: GB
       directions: London South Bank University Business School
-      office_hours:
-        - 'By appointment - please email to arrange'
+      office_hours: []
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '51.4987073'
         longitude: '-0.1026203'
-      contact_links:
-        - icon: brands/linkedin
-          icon_pack: fab
-          name: LinkedIn
-          link: 'https://www.linkedin.com/in/valerio-ficcadenti/'
-        - icon: brands/x
-          icon_pack: fab
-          name: X (Twitter)
-          link: 'https://twitter.com/IoValerio'
-        - icon: academicons/orcid
-          icon_pack: ai
-          name: ORCID
-          link: 'https://orcid.org/0000-0001-8786-8213'
-        - icon: map-pin
-          icon_pack: fas
-          name: Google Maps
-          link: 'https://www.google.com/maps/place/LSBU+Business+School/@51.4987804,-0.1027846,21z/data=!4m7!3m6!1s0x487604a38262192b:0x7b948b0682d44619!4b1!8m2!3d51.4987073!4d-0.1026203!16s%2Fg%2F11qg2bvb3g?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D'
+      contact_links: []
       # Automatically link email and phone or display as text?
-      autolink: true
+      autolink: false
       # Email form provider
       form:
-        provider: netlify
+        provider: ''
         formspree:
           id:
         netlify:
