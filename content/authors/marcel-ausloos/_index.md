@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Marcel Ausloos
+title: Prof. Marcel Ausloos
 
 # Full name (for SEO)
 first_name: Marcel
@@ -10,7 +10,7 @@ last_name: Ausloos
 superuser: false
 
 # Role/position
-role: Professor of Econophysics and Complex Systems
+role: Professor of Econophysics and Complex Systems 
 
 # Organizations/Affiliations to show in Biography blox
 organizations:
@@ -22,27 +22,28 @@ organizations:
     url: https://www.ase.ro/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Professor Marcel Ausloos is a scientist in econophysics, statistical mechanics, and complex systems with circa 1000 publications, thousands of citations, and extensive experience in computational finance and socio-economic modeling.
+bio: ''
 
 # Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-profiles:
-  - icon: at-symbol
-    icon_pack: fas
-    url: 'mailto:marcel.ausloos@leicester.ac.uk'
+social:
   - icon: google-scholar
     icon_pack: ai
-    url: https://scholar.google.com/citations?user=q-14pHAAAAAJ
+    link: 'https://scholar.google.com/citations?user=BOvwIHwAAAAJ&hl=en&oi=ao'
   - icon: researchgate
     icon_pack: ai
-    url: https://www.researchgate.net/profile/Marcel-Ausloos
+    link: 'https://www.researchgate.net/profile/Marcel-Ausloos'
 
 user_groups:
-  - coauthor
+  - co-authors
 
 authors:
   - marcel-ausloos
 ---
 
+Marcel Ausloos was a distinguished Professor of Econophysics at the University of Leicester's School of Business. With over 981 publications and 87,716 citations, he is a world leading scientist, recognized for his pioneering work in applying statistical physics methods to economic and financial systems.
 
-Marcel Ausloos is a distinguished Professor of Econophysics and Complex Systems at the University of Leicester's School of Business. With circa 1,000 publications and 100,000 citations, he is a world leading scientist, recognized for his pioneering work in applying statistical physics methods to economic and financial systems.
+His research spaned econophysics, complex systems analysis, financial time series modeling, and socio-economic phenomena. Professor Ausloos has made significant contributions to understanding market dynamics, risk assessment, and economic indicators through advanced statistical and computational methods.
+
+He served as Chief Editor of Open Statistics (De Gruyter) and Journal of Applied Quantitative Methods (JAQM), and was an Editorial Board Member of Physica A Statistical Mechanics and its Applications. 
+
+Professor Ausloos has sadly passed away in 2025, but his legacy continues through his influential research and contributions to the field of econophysics.

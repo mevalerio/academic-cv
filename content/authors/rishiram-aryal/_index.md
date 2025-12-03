@@ -17,14 +17,15 @@ organizations:
   - name: London South Bank University
     url: 'https://www.lsbu.ac.uk/'
 
+bio: ''
+
 social:
-  - icon: globe
+  - icon: university
     icon_pack: fas
     link: 'https://www.rcl.ac.uk/our-community/our-rcl-team/'
   - icon: linkedin
     icon_pack: fab
     link: 'https://www.linkedin.com/in/dr-rishiram-aryal-fhea-pgcert-57085750/'
-
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -36,6 +37,3 @@ user_groups:
 authors:
   - rishiram-aryal
 ---
----
-
-Dr. Rishiram Aryal successfully completed his PhD in Business at London South Bank University in 2020, working as a full-time doctoral student under the co-supervision of Dr. Valerio Ficcadenti (Second Supervisor).

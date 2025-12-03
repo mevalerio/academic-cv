@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Parmjit Kaur
+title: Dr. Parmjit Kaur
 
 # Full name (for SEO)
 first_name: Parmjit
@@ -23,31 +23,27 @@ organizations:
     url: 'https://www.londonmet.ac.uk/faculties/guildhall-school-of-business-and-law/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Head of Economics and Operations Management at Guildhall School of Business & Law, London Metropolitan University. 
+bio: ''
+
 # Social/Academic Networking
-profiles:
-  - icon: at-symbol
-    icon_pack: fas
-    url: 'mailto:p.kaur@londonmet.ac.uk'
-  - icon: researchgate
-    icon_pack: ai
-    url: https://www.researchgate.net/scientific-contributions/Parmjit-Kaur-2311829302
+social:
   - icon: university
     icon_pack: fas
-    url: https://www.londonmet.ac.uk/profiles/staff/parmjit-kaur/
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'p.kaur@londonmet.ac.uk'
+    link: 'https://www.londonmet.ac.uk/profiles/staff/parmjit-kaur/'
+  - icon: google-scholar
+    icon_pack: ai
+    link: 'https://scholar.google.com/citations?user=bawPHSkAAAAJ&hl=en&oi=ao'
+  - icon: researchgate
+    icon_pack: ai
+    link: 'https://www.researchgate.net/scientific-contributions/Parmjit-Kaur-2311829302'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
 # Organizational groups that this person belongs to (for People widget)
 user_groups:
-  - coauthor
+  - co-authors
 
 authors:
   - parmjit-kaur
----
-
-Dr. Parmjit Kaur is the Head of Economics and Operations Management at Guildhall School of Business & Law, London Metropolitan University. 
+--- 

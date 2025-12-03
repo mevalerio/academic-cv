@@ -22,7 +22,7 @@ main:
   - name: Publications
     url: '/publication/'
     weight: 50
-  - name: Meet the Team
+  - name: <span class="collab-col">Col</span><span class="collab-lab">LAB</span>
     url: '/people/'
     weight: 55
 

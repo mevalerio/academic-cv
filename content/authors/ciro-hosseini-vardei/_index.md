@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ciro Hosseini Vardei
+title: Dr. Ciro Hosseini Vardei
 
 # Full name (for SEO)
 first_name: Ciro
@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Sports scientist and researcher with expertise in performance analysis, GPS technology, and biomechanical assessment in football and various sports.
+bio: ''
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -31,10 +31,10 @@ bio: Sports scientist and researcher with expertise in performance analysis, GPS
 social:
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/ciro-hosseini-varde-i-b05730100/
+    link: 'https://it.linkedin.com/in/ciro-hosseini-varde-i-408356b4/it'
   - icon: researchgate
     icon_pack: ai
-    link: https://www.researchgate.net/profile/Ciro-Hosseini-Vardei
+    link: 'https://www.researchgate.net/profile/Ciro-Hosseini-Vardei'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -42,6 +42,6 @@ highlight_name: false
 # Organizational groups that this person belongs to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - coauthor
+  - co-authors
 ---
 

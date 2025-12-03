@@ -6,3 +6,33 @@
 // General custom styling for the academic CV
 
 // Remove custom font styling to use Hugo Blox defaults
+
+/* Custom styles for ColLAB menu item */
+
+/* Col part - adapts to theme */
+.collab-col {
+  color: #000000; /* Black in light mode */
+}
+
+.collab-lab {
+  color: #e74c3c; /* Red for LAB */
+}
+
+/* Dark mode override */
+[data-theme="dark"] .collab-col,
+body.dark .collab-col {
+  color: #ffffff; /* White in dark mode */
+}
+
+/* Additional dark mode support using media query */
+@media (prefers-color-scheme: dark) {
+  .collab-col {
+    color: #ffffff;
+  }
+}
+
+/* Override dark mode back to black if light mode is explicitly selected */
+[data-theme="light"] .collab-col,
+body.light .collab-col {
+  color: #000000;
+}

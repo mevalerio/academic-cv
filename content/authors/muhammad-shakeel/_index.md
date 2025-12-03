@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Muhammad Bilal Shakeel
+title: Dr. Muhammad Bilal Shakeel
 
 # Full name (for SEO)
 first_name: Muhammad Bilal
@@ -25,29 +25,26 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Lecturer in Accounting and Finance with PhD in Financial Economics/Econometrics.
+bio: ''
 
 # Social/Academic Networking
-profiles:
-  - icon: at-symbol
-    icon_pack: fas
-    url: 'mailto:bilal.shakeel@dmu.ac.uk'
-  - icon: google-scholar
-    icon_pack: ai
-    url: https://scholar.google.com/citations?user=muhammad-shakeel
+social:
   - icon: university
     icon_pack: fas
-    url: https://www.dmu.ac.uk/about-dmu/academic-staff/business-and-law/muhammad-bilal-shakeel/muhammad-bilal-shakeel.aspx
+    link: https://www.dmu.ac.uk/about-dmu/academic-staff/business-and-law/muhammad-bilal-shakeel/muhammad-bilal-shakeel.aspx
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Muhammad-Bilal-Shakeel
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'bilal.shakeel@dmu.ac.uk'
+email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
 # Organizational groups that this person belongs to (for People widget)
 user_groups:
-  - coauthor
+  - co-authors
 
 authors:
   - muhammad-shakeel

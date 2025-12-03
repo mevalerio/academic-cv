@@ -20,22 +20,16 @@ organizations:
     url: 'https://www.lsbu.ac.uk/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Visiting PhD student from Roma Tre University (Oct 2024 - March 2025), supervised by Dr. Valerio Ficcadenti at LSBU and Prof. Francesco Cesarone at home institution.
-
-education:
-  courses:
-    - course: PhD in Finance (Ongoing)
-      institution: Roma Tre University, Italy
-      year: Present
-    - course: Visiting Research Period
-      institution: London South Bank University, UK
-      year: Oct 2024 - March 2025
+bio: ''
 
 # Social/Academic Networking
-profiles:
-  - icon: at-symbol
-    icon_pack: fas
-    url: 'mailto:alessio.dipaolo@uniroma3.it'
+social:
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://it.linkedin.com/in/alessiodipaolo1998'
+  - icon: google-scholar
+    icon_pack: ai
+    link: 'https://scholar.google.com/citations?user=aCxsh3kAAAAJ&hl=en&oi=ao'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

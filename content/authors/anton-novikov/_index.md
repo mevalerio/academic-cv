@@ -17,16 +17,13 @@ organizations:
   - name: London South Bank University
     url: 'https://www.lsbu.ac.uk/'
 
-social:
-  - icon: globe
-    icon_pack: fas
-    link: 'https://researchportal.lsbu.ac.uk/en/persons/anton-novikov'
+# Short bio (empty for minimal profile)
+bio: ''
 
-education:
-  courses:
-    - course: PhD in Business (Ongoing)
-      institution: London South Bank University, UK
-      year: 2021 - Present
+social:
+  - icon: researchgate
+    icon_pack: ai
+    link: 'https://www.researchgate.net/profile/Anton-Novikov-3'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -38,5 +35,3 @@ user_groups:
 authors:
   - anton-novikov
 ---
-
-Anton Novikov is a full-time PhD student at London South Bank University's Business School, working under the primary supervision of Dr. Valerio Ficcadenti (Director of Studies) since 2021. His research focuses on Financial Risk Management.

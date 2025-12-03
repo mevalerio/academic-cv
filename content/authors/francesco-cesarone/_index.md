@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Francesco Cesarone
+title: Prof. Francesco Cesarone
 
 # Full Name (for SEO)
 first_name: Francesco
@@ -10,18 +10,18 @@ last_name: Cesarone
 superuser: false
 
 # Role/position
-role: Professor (Full)
+role: Full Professor, Roma Tre University - Department of Business Economics
 
 # Organizations/Affiliations
 organizations:
-  - name: Roma Tre University
+  - name: Roma Tre University - Department of Business Economics
     url: 'https://www.uniroma3.it/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Full Professor of Computational Finance at the Department of Business Studies, Roma Tre University.
+bio: ''
 
 social:
-  - icon: globe
+  - icon: house
     icon_pack: fas
     link: 'https://www.francescocesarone.com/'
   - icon: google-scholar
@@ -36,7 +36,7 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - coauthor
+  - co-authors
 
 authors:
   - francesco-cesarone

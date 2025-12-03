@@ -1,12 +1,13 @@
 ---
-title: Meet the Team
+title: ColLAB
 layout: people
 type: landing
 
 sections:
   - block: people
     content:
-      title: Meet the Team
+      title: ColLAB
+      text: Research collaborators I have worked with in recent years.
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
@@ -16,7 +17,7 @@ sections:
         - Administration
         - Visitors
         - Alumni
-        - coauthor
+        - co-authors
         - PhD Student
         - PhD Graduate
         - Visiting PhD

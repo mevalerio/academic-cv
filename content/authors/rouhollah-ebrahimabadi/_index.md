@@ -17,10 +17,9 @@ organizations:
   - name: London South Bank University
     url: 'https://www.lsbu.ac.uk/'
 
+bio: ''
+
 social:
-  - icon: globe
-    icon_pack: fas
-    link: 'https://www.lsbu.ac.uk/'
   - icon: linkedin
     icon_pack: fab
     link: 'https://www.linkedin.com/in/rouhollah-ebrahimabadi-17014bb3/'
@@ -35,6 +34,3 @@ user_groups:
 authors:
   - rouhollah-ebrahimabadi
 ---
----
-
-Dr. Rouhollah Ebrahimabadi successfully completed his PhD in Business at London South Bank University in 2021, working as a full-time doctoral student under the co-supervision of Dr. Valerio Ficcadenti (Second Supervisor). His research focused on Finance and Machine Learning.

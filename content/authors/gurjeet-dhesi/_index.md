@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Gurjeet Dhesi
+title: Dr. Gurjeet Dhesi
 
 # Full name (for SEO)
 first_name: Gurjeet
@@ -20,7 +20,7 @@ organizations:
     url: https://www.lsbu.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Senior researcher specializing in financial markets, econophysics, quantitative finance, and portfolio optimization.
+bio: ''
 
 # Social/Academic Networking
 social:
@@ -32,7 +32,7 @@ social:
 highlight_name: false
 
 user_groups:
-  - coauthor
+  - co-authors
 
 authors:
   - gurjeet-dhesi

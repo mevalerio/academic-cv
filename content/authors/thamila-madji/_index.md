@@ -17,10 +17,9 @@ organizations:
   - name: London South Bank University
     url: 'https://www.lsbu.ac.uk/'
 
+bio: ''
+
 social:
-  - icon: globe
-    icon_pack: fas
-    link: 'https://www.lsbu.ac.uk/'
   - icon: linkedin
     icon_pack: fab
     link: 'https://www.linkedin.com/in/thamila-madji-2479a4111/'
@@ -35,6 +34,3 @@ user_groups:
 authors:
   - thamila-madji
 ---
----
-
-Dr. Thamila Madji successfully completed her PhD in Business at London South Bank University in 2021, working as a full-time doctoral student under the primary supervision of Dr. Valerio Ficcadenti (Director of Studies). Her research focussed on information circulation between political announcements and financial markets.

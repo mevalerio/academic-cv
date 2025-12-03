@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jessica Riccioni
+title: Dr. Jessica Riccioni
 
 # Full name (for SEO)
 first_name: Jessica
@@ -21,24 +21,15 @@ organizations:
 
 # Social/Academic Networking
 social:
-  - icon: at-symbol
-    icon_pack: fas
-    link: 'mailto:jessica.riccioni@uniroma1.it'
-  - icon: researchgate
-    icon_pack: ai
-    link: https://www.researchgate.net/profile/Jessica-Riccioni
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=JessicaR
-  - icon: orcid
-    icon_pack: ai
-    link: https://orcid.org/0000-0000-0000-0000
   - icon: university
     icon_pack: fas
     link: https://research.uniroma1.it/researcher/5ffbdb788cac0f1ec0ddb8ad92a45e47851a21085cdc9bea33cc2302
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Jessica-Riccioni-2
 
 user_groups:
-  - coauthor
+  - co-authors
 
 authors:
   - jessica-riccioni

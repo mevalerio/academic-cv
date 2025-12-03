@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Matteo Cinelli
+title: Dr. Matteo Cinelli
 
 # Full name (for SEO)
 first_name: Matteo
@@ -22,28 +22,22 @@ organizations:
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Assistant Professor specializing in complex networks, social media analysis, information spreading, and computational social science. Expert in studying online behavior, polarization, and misinformation dynamics across digital platforms.
+bio: ''
 
 # Social/Academic Networking
 social:
-  - icon: globe
+  - icon: university
     icon_pack: fas
     link: 'https://research.uniroma1.it/researcher/69f4965b064dc997920d90041ff6345a1f04a33a59d9f13196060073'
-  - icon: at-symbol
-    icon_pack: fas
-    link: 'mailto:matteo.cinelli@uniroma1.it'
-  - icon: researchgate
-    icon_pack: ai
-    link: https://www.researchgate.net/profile/Matteo-Cinelli
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=MatteoC
-  - icon: orcid
+    link: 'https://scholar.google.com/citations?user=3qOq_28AAAAJ&hl=en&oi=ao'
+  - icon: researchgate
     icon_pack: ai
-    link: https://orcid.org/0000-0000-0000-0000
+    link: 'https://www.researchgate.net/profile/Matteo-Cinelli'
 
 user_groups:
-  - coauthor
+  - co-authors
 
 authors:
   - matteo-cinelli
@@ -51,6 +45,3 @@ authors:
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
-
-Matteo Cinelli is Assistant Professor in Computer Science at the University of Rome “La Sapienza”, Rome, Italy. He is a member of the Center of Data Science and Complexity for Society (CDCS) and his research interests include network and data science mostly in the context of information diffusion and social media.
