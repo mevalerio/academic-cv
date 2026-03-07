@@ -23,70 +23,61 @@ sections:
         .experience-cards {
           display: grid;
           grid-template-columns: repeat(3, 1fr);
-          gap: 25px;
+          gap: 20px;
           margin: 40px 0;
           padding: 0 10px;
         }
         .exp-card {
-          background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-          padding: 30px 20px;
-          border-radius: 15px;
-          color: white;
+          background: transparent;
+          padding: 28px 20px;
+          border-radius: 8px;
+          border: 1.5px solid #e0e0e0;
+          color: inherit;
           text-align: center;
           text-decoration: none;
-          transition: all 0.3s ease;
-          box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+          transition: all 0.25s ease;
           position: relative;
-          overflow: hidden;
         }
         .exp-card:hover {
-          transform: translateY(-5px);
-          box-shadow: 0 8px 25px rgba(0,0,0,0.2);
+          border-color: #333;
+          transform: translateY(-2px);
           text-decoration: none;
+          background: rgba(0,0,0,0.02);
         }
-        .exp-card::before {
-          content: '';
-          position: absolute;
-          top: 0;
-          left: 0;
-          right: 0;
-          bottom: 0;
-          background: rgba(255,255,255,0.1);
-          opacity: 0;
-          transition: opacity 0.3s ease;
+        /* Dark mode support */
+        [data-theme="dark"] .exp-card,
+        body.dark .exp-card {
+          border-color: #404040;
         }
-        .exp-card:hover::before {
-          opacity: 1;
+        [data-theme="dark"] .exp-card:hover,
+        body.dark .exp-card:hover {
+          border-color: #666;
+          background: rgba(255,255,255,0.05);
         }
         .exp-card-icon {
-          font-size: 48px;
-          margin-bottom: 15px;
+          font-size: 40px;
+          margin-bottom: 12px;
           display: block;
+          opacity: 0.85;
         }
         .exp-card-title {
-          margin: 0 0 10px 0;
-          font-size: 20px;
-          font-weight: bold;
-          color: white;
+          margin: 0 0 8px 0;
+          font-size: 18px;
+          font-weight: 600;
+          color: inherit;
         }
         .exp-card-subtitle {
-          margin: 0 0 10px 0;
+          margin: 0 0 8px 0;
           font-size: 14px;
-          opacity: 0.9;
-          color: white;
+          opacity: 0.7;
+          color: inherit;
         }
         .exp-card-stats {
           margin: 10px 0 0 0;
           font-size: 13px;
-          opacity: 0.85;
-          color: white;
+          opacity: 0.6;
+          color: inherit;
         }
-        .exp-card.positions { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); }
-        .exp-card.skills { background: linear-gradient(135deg, #06beb6 0%, #48b1bf 100%); }
-        .exp-card.awards { background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); }
-        .exp-card.phd { background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); }
-        .exp-card.visiting { background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); }
-        .exp-card.examiner { background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); }
         
         @media (max-width: 768px) {
           .experience-cards {
