@@ -73,25 +73,25 @@ sections:
           description: |2-
               Leading business research methods teaching, PhD supervision, and REF coordination.
         
-        - title: Senior Lecturer in Business Research Methods
-          company: London South Bank University (LSBU)
-          company_url: 'https://www.lsbu.ac.uk/our-schools/business'
-          company_logo: 'lsbu'
+        - title: Pricing Specialist in Derivatives Evaluation
+          company: Deloitte's Pricing Centre (UK)
+          company_url: 'https://www2.deloitte.com/uk/en/explore/home.html'
+          company_logo: 'Deloitte'
           location: London, UK
-          date_start: '2020-01-01'
-          date_end: '2023-07-30'
+          date_start: '2018-01-01'
+          date_end: '2019-12-31'
           description: |2-
-              High student satisfaction, REF 2021 leadership, mentoring early career researchers.
+              Priced complex financial derivatives, ensuring compliance with IFRS 9 standards.
         
-        - title: Deputy Director of Research and Enterprise Office
-          company: London South Bank University (LSBU)
-          company_url: 'https://www.lsbu.ac.uk/our-schools/business'
-          company_logo: 'lsbu'
-          location: London, UK
-          date_start: '2020-01-01'
-          date_end: '2022-12-31'
+        - title: Postdoctoral Researcher in Quantitative Finance
+          company: Faculty of Economics, Polytechnic University of Marche (Italy)
+          company_url: 'https://www.econ.univpm.it/content/department-management?language=en'
+          company_logo: 'Logo_Università_Politecnica_delle_Marche'
+          location: Ancona, Italy
+          date_start: '2018-01-01'
+          date_end: '2018-12-31'
           description: |2-
-              Developed work allocation model for research support and REF alignment.
+              Research in quantitative finance, published in peer-reviewed journals, taught maths for finance.
     design:
       columns: '2'
   - block: collection
