@@ -17,48 +17,41 @@ body.dark {
   --fao-color: #4da6ff;
 }
 
-/* Target the Hugo Blox experience timeline structure */
+/* Company-based color rules using logo selectors */
 
-/* LSBU positions (first 3) */
+/* LSBU positions - target by company logo */
+.row.experience:has(img[src*="lsbu" i]) {
+  .col.border-right {
+    border-color: var(--lsbu-color) !important;
+  }
+  
+  .card {
+    border-left: 3px solid var(--lsbu-color) !important;
+  }
+  
+  .badge.badge-pill.border {
+    border-color: var(--lsbu-color) !important;
+  }
+}
 
-/* First LSBU position - filled badge */
-.row.experience:nth-child(1) {
+/* LSBU first position - filled badge */
+.row.experience:has(img[src*="lsbu" i]):first-of-type {
   .badge.badge-pill.border {
     background-color: var(--lsbu-color) !important;
-    border-color: var(--lsbu-color) !important;
-  }
-  
-  .card {
-    border-left: 3px solid var(--lsbu-color) !important;
-  }
-  
-  .col.border-right {
-    border-color: var(--lsbu-color) !important;
   }
 }
 
-/* Second and third LSBU positions - empty badges */
-.row.experience:nth-child(2),
-.row.experience:nth-child(3) {
+/* LSBU subsequent positions - empty badges */
+.row.experience:has(img[src*="lsbu" i]):not(:first-of-type) {
   .badge.badge-pill.border {
     background-color: transparent !important;
-    border-color: var(--lsbu-color) !important;
     border-width: 2px !important;
-  }
-  
-  .card {
-    border-left: 3px solid var(--lsbu-color) !important;
-  }
-  
-  .col.border-right {
-    border-color: var(--lsbu-color) !important;
   }
 }
 
-/* Deloitte position (4th) - filled badge */
-.row.experience:nth-child(4) {
-  .badge.badge-pill.border {
-    background-color: var(--deloitte-color) !important;
+/* Deloitte positions - target by company logo */
+.row.experience:has(img[src*="deloitte" i]) {
+  .col.border-right {
     border-color: var(--deloitte-color) !important;
   }
   
@@ -66,15 +59,16 @@ body.dark {
     border-left: 3px solid var(--deloitte-color) !important;
   }
   
-  .col.border-right {
+  .badge.badge-pill.border {
+    background-color: var(--deloitte-color) !important;
     border-color: var(--deloitte-color) !important;
   }
 }
 
-/* UnivPM position (5th) - filled badge */
-.row.experience:nth-child(5) {
-  .badge.badge-pill.border {
-    background-color: var(--univpm-color) !important;
+/* UnivPM positions - target by company logo */
+.row.experience:has(img[src*="marche" i]),
+.row.experience:has(img[src*="univpm" i]) {
+  .col.border-right {
     border-color: var(--univpm-color) !important;
   }
   
@@ -82,15 +76,15 @@ body.dark {
     border-left: 3px solid var(--univpm-color) !important;
   }
   
-  .col.border-right {
+  .badge.badge-pill.border {
+    background-color: var(--univpm-color) !important;
     border-color: var(--univpm-color) !important;
   }
 }
 
-/* FAO position (6th) - filled badge */
-.row.experience:nth-child(6) {
-  .badge.badge-pill.border {
-    background-color: var(--fao-color) !important;
+/* FAO positions - target by company logo */
+.row.experience:has(img[src*="fao" i]) {
+  .col.border-right {
     border-color: var(--fao-color) !important;
   }
   
@@ -98,7 +92,8 @@ body.dark {
     border-left: 3px solid var(--fao-color) !important;
   }
   
-  .col.border-right {
+  .badge.badge-pill.border {
+    background-color: var(--fao-color) !important;
     border-color: var(--fao-color) !important;
   }
 }
