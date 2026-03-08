@@ -154,8 +154,8 @@ I teach research methods mostly, working with around 500 students each year as t
 
 My journey spans academia, industry, and local level policy making, where I have learned that even small data-driven decisions can make a big difference.
 
-I am especially proud to have studied Informatics at [Technical Industrial Institute "G. and M. Montani"](https://www.istitutomontani.edu.it/web/storia/), a place that shaped me and introduced me to lifelong friends.
+I am especially proud to have studied Informatics at the  [Technical Industrial Institute "G. and M. Montani"](https://www.istitutomontani.edu.it/web/storia/), a place that shaped me and introduced me to friendships that have lasted a lifetime.
 
 Outside work, you will find me cycling 🚴, kickboxing 🥊 (black belt!), diving into geopolitical news 📰, or battling it out in board games 🎲 like Catan.
 
-And yes — this website was obviously unnecessary! I built it to learn and showcase new skills. It is powered by a bootstrapped Hugo Blox template, the code is on GitHub, and, of course, AI agents were great companions throughout this journey.
+And yes — this website was entirely unnecessary. I built it to learn and showcase new skills. It is powered by a bootstrapped [Hugo Blox template](https://hugoblox.com/templates/), the code is on GitHub, and, of course, AI agents were invaluable companions throughout the journey.

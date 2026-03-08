@@ -53,38 +53,6 @@ sections:
   #     username: valerio-ficcadenti
   #   design:
   #     columns: '1'
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 2
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-      # Add link to view all posts
-      archive:
-        enable: true
-        text: "View all posts"
-        link: "post/"
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
   - block: experience
     id: experience
     content:
@@ -174,7 +142,7 @@ sections:
     id: collab
     content:
       title: Research Collaborators
-      subtitle: 'Key members of the ColLAB network'
+      subtitle: 'Key members of the <span class="collab-col">Col</span><span class="collab-lab">LAB</span> network'
       text: 'Leading academics I collaborate with on research projects. [Meet the full team →](/people/)'
       # Choose which groups/teams of users to display.
       user_groups:
