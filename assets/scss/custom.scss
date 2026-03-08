@@ -9,32 +9,13 @@
 
 /* Custom styles for ColLAB menu item */
 
-/* Col adapts to theme text color */
+/* Col uses theme text color - automatically adapts */
 .collab-col {
-  color: #000000; /* Black in light mode */
+  color: inherit; /* Inherit menu text color from theme */
 }
 
 /* LAB uses the primary theme color (blue) */
 .collab-lab {
   color: var(--hb-primary, #1565c0); /* Theme primary color */
   font-weight: bold;
-}
-
-/* Dark mode override for Col */
-[data-theme="dark"] .collab-col,
-body.dark .collab-col {
-  color: #ffffff; /* White in dark mode */
-}
-
-/* Additional dark mode support using media query */
-@media (prefers-color-scheme: dark) {
-  .collab-col {
-    color: #ffffff;
-  }
-}
-
-/* Override dark mode back to black if light mode is explicitly selected */
-[data-theme="light"] .collab-col,
-body.light .collab-col {
-  color: #000000;
 }
