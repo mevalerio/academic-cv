@@ -6,7 +6,7 @@ event: "7th International Conference on Econometrics and Statistics (EcoSta 2024
 event_url: "https://www.cmstatistics.org/EcoSta2024/"
 location: "Beijing Normal University, Beijing, China"
 
-summary: "An innovative approach to soccer rankings integrating statistical methods for balanced team performance evaluation."
+summary: "EcoSta 2024 (Beijing, China) • An innovative approach to soccer rankings integrating statistical methods for balanced team performance evaluation."
 abstract: |
   The presentation introduced an innovative approach to soccer rankings, developed in collaboration with Dr Raffaele Mattera and Prof Roy Cerqueti. The study incorporates multiple performance variables, including scored and conceded goals, alongside traditional win-draw-loss metrics.
 
@@ -45,8 +45,15 @@ image:
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: 'uploads/ECOSTA2024.pdf'
+url_slides: 'ECOSTA2024.pdf'
 url_video: ''
+
+# Custom links (optional)
+links:
+  - name: Abstract
+    url: https://www.cmstatistics.org/RegistrationsV2/EcoSta2024/viewSubmission.php?in=1119&token=36rp581on19qr1824sp278n17n81ps66
+    icon_pack: fas
+    icon: file-alt
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -64,13 +71,13 @@ projects:
   - example
 ---
 
-<!-- {{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
+**Event:** [7th International Conference on Econometrics and Statistics (EcoSta 2024)](https://www.cmstatistics.org/EcoSta2024/)  
+**Location:** Beijing Normal University, Beijing, China  
+**Date:** July 17-19, 2024
 
-Slides can be added in a few ways:
+---
 
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+This presentation introduced an innovative approach to soccer rankings, developed in collaboration with Dr Raffaele Mattera and Prof Roy Cerqueti. The study incorporates multiple performance variables, including scored and conceded goals, alongside traditional win-draw-loss metrics.
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
 

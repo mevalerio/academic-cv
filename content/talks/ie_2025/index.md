@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: Romania
 
-summary: "Keynote presentation exploring the universal application of rank-size analysis across diverse socio-economic systems and modeling frameworks."
+summary: "IE 2025 Keynote (Bucharest, Romania) • Exploring the universal application of rank-size analysis across diverse socio-economic systems and modeling frameworks."
 
 abstract: "This keynote presentation explores the versatility and power of rank-size analysis as a unifying methodological framework for understanding diverse socio-economic systems. Moving beyond traditional applications in urban studies and economics, we demonstrate how a single rank-size approach can be systematically applied across multiple domains including financial markets, population dynamics, income distributions, and organizational structures. The presentation showcases how rank-size laws provide a common language for comparing seemingly disparate systems, revealing universal patterns and scaling behaviors that transcend disciplinary boundaries. Through empirical examples and theoretical insights, we illustrate how this 'one method, many systems' approach enables researchers to identify common underlying mechanisms while respecting the unique characteristics of individual systems. The talk will present recent advances in rank-size modeling techniques, including robust statistical methodologies for model selection and comparative analysis across different socio-economic contexts. This unified perspective offers new opportunities for interdisciplinary research and provides practical tools for policy makers and researchers working across various domains of socio-economic analysis."
 
@@ -44,7 +44,7 @@ image:
 
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: 'KeyNote_IE_2025.pdf'
 url_video: ''
 
 # Markdown Slides (optional).
@@ -60,6 +60,13 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+---
+
+**Event:** International Conference on Informatics in Economy (IE 2025)  
+**Location:** Bucharest, Romania  
+**Date:** May 15-17, 2025  
+**Format:** Keynote Presentation
+
 ---
 
 This keynote presentation at the International Conference on Informatics in Economy (IE 2025) explores the universal applicability of rank-size analysis across diverse socio-economic systems and modeling frameworks.

@@ -6,7 +6,7 @@ location: "Sofia, Bulgaria"
 date: "2017-02-22"
 date_end: "2017-02-24"
 all_day: true
-summary: "Exploring the structure of the US presidential speeches"
+summary: "KNOWeSCAPE 2017 (Sofia, Bulgaria) • Exploring the structure of the US presidential speeches"
 abstract: |
   The presentation focused on the structure of US Presidential speeches, examining underlying linguistic and thematic patterns that characterise presidential communication over time.
 

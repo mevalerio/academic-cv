@@ -6,7 +6,7 @@ location: "Bucharest University of Economic Studies, Bucharest, Romania"
 date: "2021-05-01"
 date_end: "2021-05-01"
 all_day: true
-summary: "Investigating pandemic anxiety's influence on financial markets."
+summary: "International Week 2021 (Bucharest, Romania) • Investigating pandemic anxiety's influence on financial markets."
 abstract: "This presentation delves into the relationship between pandemic anxiety and financial market trust, offering insights on economic resilience."
 authors:
   - "valerio-ficcadenti"

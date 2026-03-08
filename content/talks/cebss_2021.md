@@ -6,7 +6,7 @@ location: "Babes-Bolyai University, Cluj-Napoca, Romania"
 date: "2021-12-09"
 date_end: "2021-12-09"
 all_day: true
-summary: "A study on the relationship between pandemic-induced anxiety and trust in global financial markets."
+summary: "CEBSS 2021 (Cluj-Napoca, Romania) • A study on the relationship between pandemic-induced anxiety and trust in global financial markets."
 abstract: |
   The presentation explored the relationship between pandemic-induced anxiety and trust in global financial markets. Using Google Trends data as a proxy for population anxiety, optimism and pessimism indicators were developed to analyse market reactions. The study found a significant correlation between increased COVID-19-related searches and declining trust in financial markets, with notable differences based on national lockdown stringency.
 authors:

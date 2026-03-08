@@ -15,6 +15,7 @@ sections:
     content:
       title: Recent & Upcoming Talks
       subtitle: 'Conference presentations and academic talks'
+      text: ''
       count: 0
       filters:
         author: ''

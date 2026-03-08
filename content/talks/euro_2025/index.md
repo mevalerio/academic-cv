@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: United Kingdom
 
-summary: "A novel rank-size analysis approach to systematically characterise optimal portfolio weight distributions across different portfolio optimization models."
+summary: "EURO 2025 (Leeds, UK) • A novel rank-size analysis approach to systematically characterise optimal portfolio weight distributions across different portfolio optimization models."
 
 abstract: "Portfolio optimisation has been widely studied, yet a unified framework for comparing optimal portfolio weight distributions across rank-size models remains unexplored. We introduce a rank-size analysis approach to systematically characterise these distributions in portfolio optimisation models. Four portfolio selection strategies—Mean-Variance, Conditional Value-at-Risk, Most Diversified, and Risk Parity—are analysed across the constituents of major financial indices (e.g., FTSE 100) over the period 2009-2023. The resulting empirical distributions of optimal weights are modelled using various rank-size functions, including the Exponential Law, Discrete Generalised Beta Distribution, and the Universal Law. By fitting these functions to weight distributions, we extract insights into the concentration patterns of portfolios, enabling the comparison of different strategies based on allocation ranks. To determine the most representative rank-size function, we introduce a selection methodology based on stochastic dominance, applied to the RMSE distribution of best-fit series. This approach ensures that the chosen function minimises average error while remaining robust across various quantiles of the weight distribution. The findings suggest that certain rank-size laws consistently outperform others in capturing the underlying structure of optimal portfolio weights, offering a novel lens through which to evaluate and compare portfolio construction strategies."
 
@@ -45,9 +45,17 @@ image:
   focal_point: Right
 
 url_code: ''
-url_pdf: '/uploads/EURO2025.pdf'
-url_slides: ''
-url_video: ''
+url_pdf: ''
+url_slides: 'EURO2025.pdf'
+url_vide: ''
+
+# Custom links (optional)
+links:
+  - name: Abstract
+    url: https://www.cmstatistics.org/RegistrationsV2/EcoSta2024/viewSubmission.php?in=1119&token=36rp581on19qr1824sp278n17n81ps66
+    icon_pack: fas
+    icon: file-alt
+
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -62,6 +70,12 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+---
+
+**Event:** [EURO 2025 - 32nd European Conference on Operational Research](https://www.euro2025leeds.com/)  
+**Location:** Leeds, United Kingdom  
+**Date:** June 23-25, 2025
+
 ---
 
 This presentation introduces a novel rank-size analysis framework for comparing optimal portfolio weight distributions across different portfolio optimization models. The research provides innovative insights into portfolio concentration patterns and offers a systematic methodology for evaluating portfolio construction strategies.

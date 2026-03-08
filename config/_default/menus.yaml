@@ -11,19 +11,19 @@ main:
     url: '#posts'
     weight: 20
   - name: Funded Projects
-    url: '/project/'
+    url: '#projects'
     weight: 30
   - name: Experience
-    url: '/experience/'
+    url: '#experience'
     weight: 35
   - name: Talks
-    url: '/talks/'
+    url: '#talks'
     weight: 40
   - name: Publications
-    url: '/publication/'
+    url: '#publications'
     weight: 50
   - name: <span class="collab-col">Col</span><span class="collab-lab">LAB</span>
-    url: '/people/'
+    url: '#collab'
     weight: 55
 
 # Link to a PDF of your resume/CV from the menu.

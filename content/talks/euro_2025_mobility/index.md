@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: United Kingdom
 
-summary: "A Markov chain analysis of academic mobility patterns revealing how university reputation influences researchers' career trajectories and institutional barriers to mobility."
+summary: "EURO 2025 (Leeds, UK) • A Markov chain analysis of academic mobility patterns revealing how university reputation influences researchers' career trajectories and institutional barriers to mobility."
 
 abstract: "Researchers, during all their careers, face significant barriers (e.g., Glass ceiling and gender pay gap) that limit their career development. This paper focuses on the idea that there exists a barrier given by academic affiliations. So, we analyze how the reputation of the university to which an academic is initially affiliated influences his/her career development. The data used to track professional careers year by year come from the ORCID database, which cover more than 3.8 million individuals. Whilst, university's global ranking is used to qualify the university standing. In this sense, per each year, the best university in the world is ranked 1 and the last N, with N equal to the number of university or classes used. A sample of the ORCID data is used to obtain the transition probability of moving from one university to another, revealing how academic reputation influences researchers' career trajectories. We perform a set of evaluations using Markov chains based on ranking and years. This study presents the career realizations of thousands of colleagues, proving difficulties in moving from high and low ranked universities and presenting some ideas on how to tackle such an issue."
 
@@ -49,6 +49,13 @@ url_pdf: ''
 url_slides: ''
 url_video: ''
 
+# Custom links (optional)
+links:
+  - name: Abstract
+    url: https://www.euro-online.org/conf/euro34/treat_abstract?paperid=2544
+    icon_pack: fas
+    icon: file-alt
+
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
@@ -63,6 +70,14 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+**Event:** [EURO 2025 - 32nd European Conference on Operational Research](https://www.euro2025leeds.com/)  
+**Location:** Leeds, United Kingdom  
+**Date:** June 23-25, 2025
+
+---
+
+This presentation introduces a novel Markov chain analysis of academic mobility patterns revealing how university reputation influences researchers' career trajectories and institutional barriers to mobility.
 
 This presentation explores the complex dynamics of international academic mobility using advanced Markov chain modeling to analyze career trajectories of researchers across different university rankings and institutional affiliations.
 

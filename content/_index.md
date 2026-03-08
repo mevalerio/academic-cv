@@ -85,7 +85,49 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
+  - block: experience
+    id: experience
+    content:
+      title: Career Highlights
+      subtitle: 'Recent professional positions'
+      text: 'Key roles in academia and industry. [View full experience →](/experience/)'
+      # Date format for experience
+      date_format: Jan 2006
+      # Show only recent positions (top 3)
+      items:
+        - title: Associate Professor in Business Research Methods
+          company: London South Bank University (LSBU)
+          company_url: 'https://www.lsbu.ac.uk/our-schools/business'
+          company_logo: 'lsbu'
+          location: London, UK
+          date_start: '2023-08-01'
+          date_end: ''
+          description: |2-
+              Leading business research methods teaching, PhD supervision, and REF coordination.
+        
+        - title: Senior Lecturer in Business Research Methods
+          company: London South Bank University (LSBU)
+          company_url: 'https://www.lsbu.ac.uk/our-schools/business'
+          company_logo: 'lsbu'
+          location: London, UK
+          date_start: '2020-01-01'
+          date_end: '2023-07-30'
+          description: |2-
+              High student satisfaction, REF 2021 leadership, mentoring early career researchers.
+        
+        - title: Deputy Director of Research and Enterprise Office
+          company: London South Bank University (LSBU)
+          company_url: 'https://www.lsbu.ac.uk/our-schools/business'
+          company_logo: 'lsbu'
+          location: London, UK
+          date_start: '2020-01-01'
+          date_end: '2022-12-31'
+          description: |2-
+              Developed work allocation model for research support and REF alignment.
+    design:
+      columns: '2'
   - block: collection
+    id: publications
     content:
       title: Recent Publications
       text: |-
@@ -127,7 +169,26 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: compact
+      view: card
+  - block: people
+    id: collab
+    content:
+      title: Research Collaborators
+      subtitle: 'Key members of the ColLAB network'
+      text: 'Leading academics I collaborate with on research projects. [Meet the full team →](/people/)'
+      # Choose which groups/teams of users to display.
+      user_groups:
+        - co-authors
+      # Show only a subset (e.g., 6 people)
+      count: 6
+      # Sort alphabetically
+      sort_by: 'Params.last_name'
+      sort_ascending: true
+    design:
+      show_interests: false
+      show_role: true
+      show_organizations: true
+      show_social: false
   - block: contact
     id: contact
     content:
