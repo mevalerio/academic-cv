@@ -55,28 +55,45 @@ def get_unique_authors(bib_file):
 def create_author_profiles(authors, authors_dir):
     """
     Creates a directory and an _index.md file for each author.
+    Skips entirely if the author folder already exists.
     """
     if not os.path.exists(authors_dir):
         os.makedirs(authors_dir)
 
     for author_name in authors:
         # Create a unique, URL-friendly ID for the author
-        author_id = author_name.lower().replace(' ', '-')
+        # Remove accents and special characters, replace spaces with hyphens
+        author_id = unidecode(author_name).lower()
+        author_id = ''.join(c if c.isalnum() else '-' for c in author_id)
+        author_id = '-'.join(filter(None, author_id.split('-')))  # Remove duplicate hyphens
 
         # Path for the author's directory
         author_path = os.path.join(authors_dir, author_id)
 
-        # Create the directory if it doesn't exist
-        if not os.path.exists(author_path):
-            os.makedirs(author_path)
+        # Skip entirely if author already exists - NO CHANGES MADE
+        if os.path.exists(author_path):
+            print(f"Skipped {author_name} - profile already exists")
+            continue
+
+        # Create the directory
+        os.makedirs(author_path)
 
         # Path for the _index.md file
         index_file_path = os.path.join(author_path, '_index.md')
 
-        # Create the content for the _index.md file
+        # Split first and last name
+        name_parts = author_name.split()
+        first_name = ' '.join(name_parts[:-1])
+        last_name = name_parts[-1]
+
+        # Create the content for the _index.md file matching existing author structure
         content = f"""---
 # Display name
 title: {author_name}
+
+# Full name (for SEO)
+first_name: {first_name}
+last_name: {last_name}
 
 # Is this the primary user of the site?
 superuser: false
@@ -84,34 +101,28 @@ superuser: false
 # Role/position
 role: Co-author
 
-# Organizations/Affiliations
-# organizations:
-# - name: Stanford University
-#   url: ""
+# Organizations/Affiliations to show in Biography blox
+organizations:
+  - name: ''
+    url: ''
 
-# Short bio (displayed in user profile at the top of the page)
-bio: ""
+# Short bio (displayed in user profile at end of posts)
+bio: ''
 
 # Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+  - icon: envelope
+    icon_pack: fas
+    link: '#contact'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
+user_groups:
+  - co-authors
+
+authors:
+  - {author_id}
 ---
 """
 

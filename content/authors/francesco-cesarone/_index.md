@@ -10,7 +10,7 @@ last_name: Cesarone
 superuser: false
 
 # Role/position
-role: Full Professor, Roma Tre University - Department of Business Economics
+role:  Professor of Finance
 
 # Organizations/Affiliations
 organizations:

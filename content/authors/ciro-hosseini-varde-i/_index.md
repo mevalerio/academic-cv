@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Dr. Ciro Hosseini Vardei
+title: Dr. Ciro Hosseini Varde'I
 
 # Full name (for SEO)
 first_name: Ciro
-last_name: Hosseini Vardei
+last_name: Hosseini Varde'I
 
 # Is this the primary user of the site?
 superuser: false
