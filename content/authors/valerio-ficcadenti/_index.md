@@ -146,8 +146,6 @@ languages:
     percent: 0.1
 ---
 
-## About Me
-
 Hi there! I am Valerio Ficcadenti — welcome to my corner of the web!
 
 I teach research methods mostly, working with around 500 students each year as they approach the end of their academic journey, writing their theses. Together, we explore socio-economic phenomena through cool datasets, fostering curiosity in business and management science.
