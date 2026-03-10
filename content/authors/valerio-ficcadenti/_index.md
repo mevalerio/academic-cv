@@ -91,24 +91,24 @@ skills:
     items:
       - name: Statistical & Algorithmic Toolkit
         description: 'Linear and non-linear regressions, natural language processing, text mining, and clustering.'
-        percent: 95
+        percent: 100
         icon: chart-bar
       - name: Coding
         description: 'Python, R, MATLAB, and SQL.'
-        percent: 90
+        percent: 100
         icon: code
       - name: Data Visualization
-        description: 'Seaborn (Python), ggplot2 (R), and Tableau for data visualization.'
-        percent: 85
+        descriptio: 'Seaborn (Python), ggplot2 (R), and Tableau for data visualization.'
+        percent: 100
         icon: chart-line
       - name: LaTeX
         description: 'Expert in typesetting academic papers, research articles, and presentations using LaTeX.'
-        percent: 90
+        percent: 100
         icon: custom/overleaf
         icon_pack: custom
       - name: Financial Software
-        description: 'Bloomberg and Refinitiv Eikon'
-        percent: 80
+        descriptionn: 'Bloomberg and Refinitiv Eikon'
+        percent: 100
         icon: custom/bloomberg
         icon_pack: custom
 
@@ -117,22 +117,22 @@ skills:
     items:
       - name: Soft Skills
         description: 'Business developer, talent and funding hunter, and enthusiastic event organiser. Organiser of [LondonR Meetup](https://www.meetup.com/londonr/) and [London Data Science Workshop](https://www.meetup.com/london-data-science-workshop/).'
-        percent: 90
+        percent: 100
         icon: custom/network-group
         icon_pack: custom
       - name: Charity
         description: 'Founder and honorary member of the Rotaract Club "La Marca" - Rotary Club of Civitanova Marche, Italy.'
-        percent: 85
+        percent: 100
         icon: custom/rotaract
         icon_pack: custom
       - name: Charity
         description: 'Founder and member of the e-Rotary Club "Homaranismo".'
-        percent: 85
+        percent: 100
         icon: custom/rotary
         icon_pack: custom
       - name: Sports & Hobbies
         description: 'Kickboxing (black belt first dan and coach), cycling, and reading about geopolitics.'
-        percent: 80
+        percent: 100
         icon: custom/boxing-glove
         icon_pack: custom
 

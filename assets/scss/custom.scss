@@ -19,3 +19,38 @@
   color: var(--hb-primary, #1565c0); /* Theme primary color */
   font-weight: bold;
 }
+
+/* Make skill progress bars use theme link color - Light theme: Blue */
+.skills-percent[style] {
+  background-color: #1565c0 !important;
+  border: 2px solid #1565c0 !important;
+}
+
+/* Target wrapper border - Light theme */
+.skills-wrapper {
+  border-color: #1565c0 !important;
+}
+
+/* Hide percentage text */
+.skills-percent::after,
+.skills-percent::before {
+  display: none !important;
+}
+
+/* Hide any percentage value elements */
+.skills-percent-value,
+.skill-percentage {
+  display: none !important;
+}
+
+/* Dark theme variant - Pink */
+[data-theme="dark"] .skills-percent[style],
+body.dark .skills-percent[style] {
+  background-color: #e83e8c !important;
+  border-color: #e83e8c !important;
+}
+
+[data-theme="dark"] .skills-wrapper,
+body.dark .skills-wrapper {
+  border-color: #e83e8c !important;
+}

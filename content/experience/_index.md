@@ -238,6 +238,7 @@ sections:
       username: valerio-ficcadenti
     design:
       columns: '1'
+      view: 3
 
   - block: accomplishments
     id: awards
@@ -317,7 +318,7 @@ sections:
           date_end: '2024-12-31'
           description: |2-
             **Second Supervisor, Part Time**  
-            Successfully completed PhD in 2024. Dr Mehbali's research focused on quantitative finance and business analytics.
+            Successfully completed PhD in 2024. Dr Mehbali's research focused on applications of Three-index Assignment Problem for business.
             
         - title: "Dr Thamila Madji"
           organization: "Business School - London South Bank University (UK)"
@@ -325,7 +326,7 @@ sections:
           date_end: '2021-12-31'
           description: |2-
             **Director of Studies, Full Time**  
-            Successfully completed PhD in 2021. Dr Madji's research contributed significantly to business research methodology.
+            Successfully completed PhD in 2021. Dr Madji's research focuses on the relationship between political communications and financial markets.
             
         - title: "Dr Rouhollah Ebrahimabadi"
           organization: "Business School - London South Bank University (UK)"
@@ -333,7 +334,7 @@ sections:
           date_end: '2021-12-31'
           description: |2-
             **Second Supervisor, Full Time**  
-            Successfully completed PhD in 2021. Dr Ebrahimabadi's work focused on applied economics and business analytics.
+            Successfully completed PhD in 2021. Dr Ebrahimabadi's work focused on Machine Learning application for finance.
             
         - title: "Dr Rishiram Aryal"
           organization: "Business School - London South Bank University (UK)"
@@ -341,7 +342,7 @@ sections:
           date_end: '2020-12-31'
           description: |2-
             **Second Supervisor, Full Time**  
-            Successfully completed PhD in 2020. Dr Aryal's research contributed to quantitative business methods and analytics.
+            Successfully completed PhD in 2020. Dr Aryal's research contributed to quantitative revenue management analysis.
     design:
       columns: '1'
       
