@@ -284,14 +284,21 @@ sections:
           date_start: '2021-01-01'
           description: |2-
             **Director of Studies, Full Time**  
-            Current PhD student under my primary supervision, focusing on advanced research in business methods.
+            Current PhD student under my primary supervision, focusing on quantitative finance.
             
         - title: "Mr Stefano Marmani"
           organization: "Business School - London South Bank University (UK)"
           date_start: '2018-01-01'
           description: |2-
-            **Director of Studies, Part Time**  
-            Long-term PhD student under my primary supervision, conducting research in applied business analytics.
+            **Director of Studies, Full Time**  
+            Current PhD student under my primary supervision, conducting research in politics and economics.
+        
+        - title: "Mr Hamza Zaman"
+          organization: "Business School - London South Bank University (UK)"
+          date_start: '2026-01-01'
+          description: |2-
+            **Director of Studies, Full Time**  
+            Current PhD student under my primary supervision, conducting research in ESG and Natural Language Processing.
     design:
       columns: '1'
       

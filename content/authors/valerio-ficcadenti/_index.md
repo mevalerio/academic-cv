@@ -116,7 +116,7 @@ skills:
   - name: Soft Skills, Charity, and Hobbies
     items:
       - name: Soft Skills
-        description: 'Business developer, talent and funding hunter, and enthusiastic event organizer. Organizer of [LondonR Meetup](https://www.meetup.com/londonr/) and [London Data Science Workshop](https://www.meetup.com/london-data-science-workshop/).'
+        description: 'Business developer, talent and funding hunter, and enthusiastic event organiser. Organiser of [LondonR Meetup](https://www.meetup.com/londonr/) and [London Data Science Workshop](https://www.meetup.com/london-data-science-workshop/).'
         percent: 90
         icon: custom/network-group
         icon_pack: custom

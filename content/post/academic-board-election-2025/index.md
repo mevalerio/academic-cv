@@ -1,6 +1,6 @@
 ---
 title: Re-elected as Business School Representative on LSBU Academic Board
-subtitle: Honored to serve for a second term representing the Business School on London South Bank University's Academic Board
+subtitle: Honoured to serve for a second term representing the Business School on London South Bank University's Academic Board
 
 # Summary for listings and search engines
 summary: In June 2025, I was elected by colleagues for the second time as Business School representative on the Academic Board of London South Bank University.
@@ -40,9 +40,9 @@ projects: []
 gallery_item:
 ---
 
-I am honored to announce that in June 2025, I have been elected by my colleagues for the second time as Business School representative on the [Academic Board of London South Bank University](https://www.lsbu.ac.uk/about-us/people/governance/academic-board).
+I am honoured to announce that in June 2025, I have been elected by my colleagues for the second time as Business School representative on the [Academic Board of London South Bank University](https://www.lsbu.ac.uk/about-us/people/governance/academic-board).
 
-This re-election represents not only a personal honor but also a continued opportunity to contribute to the strategic academic direction of the university. As a member of the Academic Board, I will continue to advocate for excellence in teaching, research, and the overall academic experience for our students and faculty within the Business School.
+This re-election represents not only a personal honour but also a continued opportunity to contribute to the strategic academic direction of the university. As a member of the Academic Board, I will continue to advocate for excellence in teaching, research, and the overall academic experience for our students and faculty within the Business School.
 
 The Academic Board plays a crucial role in:
 - Setting academic standards and quality assurance

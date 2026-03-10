@@ -44,9 +44,9 @@ authors:
   - marcel-ausloos
 ---
 
-Marcel Ausloos was a distinguished Professor of Econophysics at the University of Leicester's School of Business. With over 981 publications and 87,716 citations, he is a world leading scientist, recognized for his pioneering work in applying statistical physics methods to economic and financial systems.
+Marcel Ausloos was a distinguished Professor of Econophysics at the University of Leicester's School of Business. With over 981 publications and 87,716 citations, he is a world leading scientist, recognised for his pioneering work in applying statistical physics methods to economic and financial systems.
 
-His research spaned econophysics, complex systems analysis, financial time series modeling, and socio-economic phenomena. Professor Ausloos has made significant contributions to understanding market dynamics, risk assessment, and economic indicators through advanced statistical and computational methods.
+His research spanned econophysics, complex systems analysis, financial time series modelling, and socio-economic phenomena. Professor Ausloos has made significant contributions to understanding market dynamics, risk assessment, and economic indicators through advanced statistical and computational methods.
 
 He served as Chief Editor of Open Statistics (De Gruyter) and Journal of Applied Quantitative Methods (JAQM), and was an Editorial Board Member of Physica A Statistical Mechanics and its Applications. 
 

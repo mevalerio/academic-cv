@@ -12,9 +12,9 @@ address:
   postcode: ''
   country: Romania
 
-summary: "IE 2025 Keynote (Bucharest, Romania) • Exploring the universal application of rank-size analysis across diverse socio-economic systems and modeling frameworks."
+summary: "IE 2025 Keynote (Bucharest, Romania) • Exploring the universal application of rank-size analysis across diverse socio-economic systems and modelling frameworks."
 
-abstract: "This keynote presentation explores the versatility and power of rank-size analysis as a unifying methodological framework for understanding diverse socio-economic systems. Moving beyond traditional applications in urban studies and economics, we demonstrate how a single rank-size approach can be systematically applied across multiple domains including financial markets, population dynamics, income distributions, and organizational structures. The presentation showcases how rank-size laws provide a common language for comparing seemingly disparate systems, revealing universal patterns and scaling behaviors that transcend disciplinary boundaries. Through empirical examples and theoretical insights, we illustrate how this 'one method, many systems' approach enables researchers to identify common underlying mechanisms while respecting the unique characteristics of individual systems. The talk will present recent advances in rank-size modeling techniques, including robust statistical methodologies for model selection and comparative analysis across different socio-economic contexts. This unified perspective offers new opportunities for interdisciplinary research and provides practical tools for policy makers and researchers working across various domains of socio-economic analysis."
+abstract: "This keynote presentation explores the versatility and power of rank-size analysis as a unifying methodological framework for understanding diverse socio-economic systems. Moving beyond traditional applications in urban studies and economics, we demonstrate how a single rank-size approach can be systematically applied across multiple domains including financial markets, population dynamics, income distributions, and organisational structures. The presentation showcases how rank-size laws provide a common language for comparing seemingly disparate systems, revealing universal patterns and scaling behaviours that transcend disciplinary boundaries. Through empirical examples and theoretical insights, we illustrate how this 'one method, many systems' approach enables researchers to identify common underlying mechanisms while respecting the unique characteristics of individual systems. The talk will present recent advances in rank-size modelling techniques, including robust statistical methodologies for model selection and comparative analysis across different socio-economic contexts. This unified perspective offers new opportunities for interdisciplinary research and provides practical tools for policy makers and researchers working across various domains of socio-economic analysis."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -69,17 +69,17 @@ projects: []
 
 ---
 
-This keynote presentation at the International Conference on Informatics in Economy (IE 2025) explores the universal applicability of rank-size analysis across diverse socio-economic systems and modeling frameworks.
+This keynote presentation at the International Conference on Informatics in Economy (IE 2025) explores the universal applicability of rank-size analysis across diverse socio-economic systems and modelling frameworks.
 
 **Keynote Highlights:**
 - **Universal Methodology:** Demonstration of how a single rank-size approach applies across multiple domains
 - **Interdisciplinary Perspective:** Bridging financial markets, population dynamics, income distributions, and organizational structures
-- **Methodological Advances:** Recent developments in rank-size modeling and statistical selection techniques
+- **Methodological Advances:** Recent developments in rank-size modelling and statistical selection techniques
 - **Practical Applications:** Tools and insights for policy makers and researchers
 
 **Key Themes:**
 - **One Method, Many Systems:** How rank-size laws provide a common analytical language
-- **Universal Patterns:** Revealing scaling behaviors that transcend disciplinary boundaries
+- **Universal Patterns:** Revealing scaling behaviours that transcend disciplinary boundaries
 - **Comparative Analysis:** Systematic approaches to cross-system comparison
 - **Theoretical Foundations:** Underlying mechanisms driving rank-size phenomena
 
