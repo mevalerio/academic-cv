@@ -14,7 +14,9 @@ role: Associate Professor of Economics of Financial Intermediaries
 
 # Organizations/Affiliations to show in Biography blox
 organizations:
-  - name: Università Cattolica del Sacro Cuore, Department of Business Economics and Management
+  - name: Università Cattolica del Sacro Cuore
+    url: 'https://unicatt.it'
+  - name: Department of Business Economics and Management
     url: 'https://unicatt.it'
 
 # Short bio (displayed in user profile at end of posts)
@@ -32,6 +34,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
+# Organizational groups that this person belongs to (for People widget)
 user_groups:
   - co-authors
 

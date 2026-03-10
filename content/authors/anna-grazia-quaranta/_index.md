@@ -14,7 +14,9 @@ role: Associate Professor of Financial Markets and Institutions
 
 # Organizations/Affiliations to show in Biography blox
 organizations:
-  - name: Università degli Studi di Macerata,  Department of Economics and Law
+  - name: Università degli Studi di Macerata
+    url: 'https://www.unimc.it/'
+  - name: Department of Economics and Law
     url: 'https://www.unimc.it/'
 
 # Short bio (displayed in user profile at end of posts)
@@ -32,6 +34,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
+# Organizational groups that this person belongs to (for People widget)
 user_groups:
   - co-authors
 

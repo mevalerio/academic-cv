@@ -6,16 +6,13 @@ title: Dr. Parmjit Kaur
 first_name: Parmjit
 last_name: Kaur
 
-# Username (this should match the folder name)
-username: parmjit-kaur
-
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
 role: Head of Economics and Operations Management
 
-# Organizations/Affiliations
+# Organizations/Affiliations to show in Biography blox
 organizations:
   - name: London Metropolitan University
     url: 'https://www.londonmet.ac.uk'
@@ -46,4 +43,4 @@ user_groups:
 
 authors:
   - parmjit-kaur
---- 
+---

@@ -10,7 +10,7 @@ last_name: Ausloos
 superuser: false
 
 # Role/position
-role: Professor of Econophysics and Complex Systems 
+role: Professor of Econophysics and Complex Systems
 
 # Organizations/Affiliations to show in Biography blox
 organizations:
@@ -33,6 +33,10 @@ social:
     icon_pack: ai
     link: 'https://www.researchgate.net/profile/Marcel-Ausloos'
 
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that this person belongs to (for People widget)
 user_groups:
   - co-authors
 

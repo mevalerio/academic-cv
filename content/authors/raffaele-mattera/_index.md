@@ -14,7 +14,9 @@ role: Tenure-Track Assistant Professor of Statistics
 
 # Organizations/Affiliations to show in Biography blox
 organizations:
-  - name: University of Campania "Luigi Vanvitelli" - Department of Mathematics and Physics
+  - name: University of Campania "Luigi Vanvitelli"
+    url: https://www.unicampania.it/
+  - name: Department of Mathematics and Physics
     url: https://www.unicampania.it/
 
 # Short bio (displayed in user profile at end of posts)
@@ -32,6 +34,10 @@ social:
     icon_pack: ai
     link: 'https://www.researchgate.net/profile/Raffaele-Mattera'
 
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that this person belongs to (for People widget)
 user_groups:
   - co-authors
 

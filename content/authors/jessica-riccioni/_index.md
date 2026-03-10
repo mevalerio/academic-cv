@@ -12,12 +12,15 @@ superuser: false
 # Role/position
 role: Researcher
 
-# Organizations/Affiliations
+# Organizations/Affiliations to show in Biography blox
 organizations:
   - name: Sapienza University of Rome
     url: "https://www.uniroma1.it/"
   - name: Department of Social and Economic Sciences
     url: "https://web.uniroma1.it/disse"
+
+# Short bio (displayed in user profile at end of posts)
+bio: ''
 
 # Social/Academic Networking
 social:
@@ -28,12 +31,13 @@ social:
     icon_pack: ai
     link: https://www.researchgate.net/profile/Jessica-Riccioni-2
 
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that this person belongs to (for People widget)
 user_groups:
   - co-authors
 
 authors:
   - jessica-riccioni
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
 ---

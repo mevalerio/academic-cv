@@ -14,7 +14,9 @@ role: Professor of Economic and Social Sciences - Former PhD Supervisor
 
 # Organizations/Affiliations to show in Biography blox
 organizations:
-  - name: Sapienza University of Rome - Department of Economic and Social Sciences
+  - name: Sapienza University of Rome
+    url: https://www.uniroma1.it/
+  - name: Department of Economic and Social Sciences
     url: https://www.uniroma1.it/
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,6 +31,10 @@ social:
     icon_pack: ai
     link: 'https://www.researchgate.net/profile/Roy-Cerqueti'
 
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that this person belongs to (for People widget)
 user_groups:
   - co-authors
 

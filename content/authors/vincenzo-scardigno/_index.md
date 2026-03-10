@@ -2,7 +2,7 @@
 # Display name
 title: Vincenzo Scardigno
 
-# Full Name (for SEO)
+# Full name (for SEO)
 first_name: Vincenzo
 last_name: Scardigno
 
@@ -12,7 +12,7 @@ superuser: false
 # Role/position
 role: Visiting PhD Student
 
-# Organizations/Affiliations
+# Organizations/Affiliations to show in Biography blox
 organizations:
   - name: University of Bari (Italy)
     url: 'https://www.uniba.it/'
@@ -23,12 +23,12 @@ organizations:
 bio: ''
 
 # Social/Academic Networking
-social:
+social: []
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
-# Organizational groups that you belong to (for People widget)
+# Organizational groups that this person belongs to (for People widget)
 user_groups:
   - Visiting PhD
 

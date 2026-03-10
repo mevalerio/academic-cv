@@ -31,6 +31,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
+# Organizational groups that this person belongs to (for People widget)
 user_groups:
   - co-authors
 

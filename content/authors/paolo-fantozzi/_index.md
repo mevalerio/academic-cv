@@ -14,7 +14,9 @@ role: Researcher in Computer Science
 
 # Organizations/Affiliations to show in Biography blox
 organizations:
-  - name: LUMSA University, Department of Law, Economics, Politics, and Foreign Languages
+  - name: LUMSA University
+    url: 'https://lumsa.it/en/docenti/paolo-fantozzi'
+  - name: Department of Law, Economics, Politics, and Foreign Languages
     url: 'https://lumsa.it/en/docenti/paolo-fantozzi'
 
 # Short bio (displayed in user profile at end of posts)
@@ -32,6 +34,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
+# Organizational groups that this person belongs to (for People widget)
 user_groups:
   - co-authors
 

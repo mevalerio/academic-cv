@@ -2,7 +2,7 @@
 # Display name
 title: Prof. Francesco Cesarone
 
-# Full Name (for SEO)
+# Full name (for SEO)
 first_name: Francesco
 last_name: Cesarone
 
@@ -10,16 +10,19 @@ last_name: Cesarone
 superuser: false
 
 # Role/position
-role:  Professor of Finance
+role: Professor of Finance
 
-# Organizations/Affiliations
+# Organizations/Affiliations to show in Biography blox
 organizations:
-  - name: Roma Tre University - Department of Business Economics
+  - name: Roma Tre University
+    url: 'https://www.uniroma3.it/'
+  - name: Department of Business Economics
     url: 'https://www.uniroma3.it/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
 
+# Social/Academic Networking
 social:
   - icon: house
     icon_pack: fas
@@ -34,7 +37,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
-# Organizational groups that you belong to (for People widget)
+# Organizational groups that this person belongs to (for People widget)
 user_groups:
   - co-authors
 

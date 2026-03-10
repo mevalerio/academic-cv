@@ -2,7 +2,7 @@
 # Display name
 title: Felipe Lago
 
-# Full Name (for SEO)
+# Full name (for SEO)
 first_name: Felipe
 last_name: Lago
 
@@ -12,11 +12,15 @@ superuser: false
 # Role/position
 role: PhD Student (Part Time)
 
-# Organizations/Affiliations
+# Organizations/Affiliations to show in Biography blox
 organizations:
   - name: London South Bank University
     url: 'https://www.lsbu.ac.uk/'
 
+# Short bio (displayed in user profile at end of posts)
+bio: ''
+
+# Social/Academic Networking
 social:
   - icon: linkedin
     icon_pack: fab
@@ -25,7 +29,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
-# Organizational groups that you belong to (for People widget)
+# Organizational groups that this person belongs to (for People widget)
 user_groups:
   - PhD Student
 

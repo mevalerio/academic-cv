@@ -12,10 +12,10 @@ superuser: false
 # Role/position
 role: Assistant Professor in Complex Systems and Social Media Analysis
 
-# Organizations/Affiliations
+# Organizations/Affiliations to show in Biography blox
 organizations:
-  - name: University of Rome “La Sapienza”
-    url: "https://www.cnr.it/"
+  - name: Sapienza University of Rome
+    url: "https://www.uniroma1.it/en/pagina-strutturale/home"
   - name: Institute for Complex Systems (ISC)
     url: "https://www.isc.cnr.it/"
   - name: Walter Quattrociocchi's Lab
@@ -36,12 +36,13 @@ social:
     icon_pack: ai
     link: 'https://www.researchgate.net/profile/Matteo-Cinelli'
 
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that this person belongs to (for People widget)
 user_groups:
   - co-authors
 
 authors:
   - matteo-cinelli
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
 ---

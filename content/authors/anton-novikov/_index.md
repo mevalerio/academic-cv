@@ -2,7 +2,7 @@
 # Display name
 title: Anton Novikov
 
-# Full Name (for SEO)
+# Full name (for SEO)
 first_name: Anton
 last_name: Novikov
 
@@ -10,16 +10,17 @@ last_name: Novikov
 superuser: false
 
 # Role/position
-role: PhD Student (Full Time)
+role: PhD Student
 
-# Organizations/Affiliations
+# Organizations/Affiliations to show in Biography blox
 organizations:
   - name: London South Bank University
     url: 'https://www.lsbu.ac.uk/'
 
-# Short bio (empty for minimal profile)
+# Short bio (displayed in user profile at end of posts)
 bio: ''
 
+# Social/Academic Networking
 social:
   - icon: researchgate
     icon_pack: ai
@@ -28,7 +29,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
-# Organizational groups that you belong to (for People widget)
+# Organizational groups that this person belongs to (for People widget)
 user_groups:
   - PhD Student
 

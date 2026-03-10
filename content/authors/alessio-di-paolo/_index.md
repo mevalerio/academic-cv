@@ -2,7 +2,7 @@
 # Display name
 title: Alessio Di Paolo
 
-# Full Name (for SEO)
+# Full name (for SEO)
 first_name: Alessio
 last_name: Di Paolo
 
@@ -12,7 +12,7 @@ superuser: false
 # Role/position
 role: Visiting PhD Student
 
-# Organizations/Affiliations
+# Organizations/Affiliations to show in Biography blox
 organizations:
   - name: Roma Tre University (Italy)
     url: 'https://www.uniroma3.it/'
@@ -34,7 +34,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
-# Organizational groups that you belong to (for People widget)
+# Organizational groups that this person belongs to (for People widget)
 user_groups:
   - Visiting PhD
 

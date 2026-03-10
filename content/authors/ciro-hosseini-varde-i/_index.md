@@ -12,7 +12,7 @@ superuser: false
 # Role/position
 role: PhD in Life Science, Health and Biotechnology
 
-# Organizations/Affiliations
+# Organizations/Affiliations to show in Biography blox
 organizations:
   - name: University of Urbino "Carlo Bo"
     url: 'https://www.uniurb.it/en'
@@ -25,9 +25,6 @@ organizations:
 bio: ''
 
 # Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: linkedin
     icon_pack: fab
@@ -40,8 +37,10 @@ social:
 highlight_name: false
 
 # Organizational groups that this person belongs to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - co-authors
+
+authors:
+  - ciro-hosseini-varde-i
 ---
 

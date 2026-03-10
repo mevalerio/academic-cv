@@ -6,23 +6,20 @@ title: Dr. Muhammad Bilal Shakeel
 first_name: Muhammad Bilal
 last_name: Shakeel
 
-# Username (this should match the folder name)
-username: muhammad-shakeel
-
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
 role: Lecturer in Accounting and Finance
 
-# Organizations/Affiliations
+# Organizations/Affiliations to show in Biography blox
 organizations:
   - name: De Montfort University
     url: 'https://www.dmu.ac.uk'
   - name: Leicester Castle Business School
-    url: ''
+    url: 'https://www.dmu.ac.uk'
   - name: Faculty of Business and Law
-    url: ''
+    url: 'https://www.dmu.ac.uk'
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
@@ -36,9 +33,6 @@ social:
     icon_pack: ai
     link: https://www.researchgate.net/profile/Muhammad-Bilal-Shakeel
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
@@ -48,4 +42,5 @@ user_groups:
 
 authors:
   - muhammad-shakeel
+---
 ---
