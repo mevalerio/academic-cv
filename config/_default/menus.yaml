@@ -22,6 +22,9 @@ main:
   - name: <span class="collab-col">Col</span><span class="collab-lab">LAB</span>
     url: '#collab'
     weight: 15
+  - name: Posts
+    url: '/post/'
+    weight: 16
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

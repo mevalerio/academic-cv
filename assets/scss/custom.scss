@@ -14,9 +14,18 @@
   color: inherit; /* Inherit menu text color from theme */
 }
 
-/* LAB uses the primary theme color (blue) */
+/* Mirror the theme's active navbar color as a variable (theme itself has no variable for this) */
+:root {
+  --navbar-active-color: #2962ff;
+}
+
+[data-theme="dark"], .dark {
+  --navbar-active-color: var(--pink);
+}
+
+/* LAB matches active navbar link color */
 .collab-lab {
-  color: var(--hb-primary, #1565c0); /* Theme primary color */
+  color: var(--navbar-active-color) !important;
   font-weight: bold;
 }
 

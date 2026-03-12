@@ -11,19 +11,7 @@ img[src*="overleaf.svg"] {
   filter: none;
 }
 
-/* Dark mode filters */
-@media (prefers-color-scheme: dark) {
-  .skills .featurette-icon img[src*="bloomberg.svg"],
-  .skills .featurette-icon img[src*="overleaf.svg"],
-  .featurette-icon img[src*="bloomberg.svg"],
-  .featurette-icon img[src*="overleaf.svg"],
-  img[src*="bloomberg.svg"],
-  img[src*="overleaf.svg"] {
-    filter: invert(1) brightness(100%) !important;
-  }
-}
-
-/* Additional dark mode selectors for different theme implementations */
+/* Dark mode filters - based on site theme, not OS preference */
 [data-theme="dark"] .skills .featurette-icon img[src*="bloomberg.svg"],
 [data-theme="dark"] .skills .featurette-icon img[src*="overleaf.svg"],
 [data-theme="dark"] .featurette-icon img[src*="bloomberg.svg"],

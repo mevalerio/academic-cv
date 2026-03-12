@@ -95,24 +95,6 @@ sections:
     design:
       columns: '2'
   - block: collection
-    id: publications
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-        exclude:
-          publication_types:
-            - '1'  # Exclude conference papers
-    design:
-      columns: '2'
-      view: citation
-  - block: collection
     id: projects
     content:
       title: Funded Research Projects
@@ -141,6 +123,24 @@ sections:
     design:
       columns: '2'
       view: card
+  - block: collection
+    id: publications
+    content:
+      title: Recent Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+        exclude:
+          publication_types:
+            - '1'  # Exclude conference papers
+    design:
+      columns: '2'
+      view: citation
   - block: people
     id: collab
     content:
@@ -160,6 +160,27 @@ sections:
       show_role: true
       show_organizations: true
       show_social: false
+  - block: collection
+    id: posts
+    content:
+      title: Recent Posts
+      subtitle: ''
+      text: ''
+      count: 5
+      filters:
+        folders:
+          - post
+        author: ''
+        category: ''
+        tag: ''
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ''
+      order: desc
+    design:
+      columns: '2'
+      view: card
   - block: contact
     id: contact
     content:
