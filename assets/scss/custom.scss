@@ -14,7 +14,7 @@
   color: inherit; /* Inherit menu text color from theme */
 }
 
-/* Mirror the theme's active navbar color as a variable (theme itself has no variable for this) */
+/* Active menu item color - hardcoded for light mode */
 :root {
   --navbar-active-color: #2962ff;
 }
@@ -31,23 +31,23 @@
 
 /* Fix experience company links - override text-muted which makes them grey */
 .exp-company a {
-  color: var(--hb-primary, #1565c0) !important;
+  color: var(--hb-primary) !important;
 }
 
 [data-theme="dark"] .exp-company a,
 body.dark .exp-company a {
-  color: var(--pink, #e83e8c) !important;
+  color: var(--pink) !important;
 }
 
 /* Make skill progress bars use theme link color */
 .skills-percent[style] {
-  background-color: var(--hb-primary, #1565c0) !important;
-  border: 2px solid var(--hb-primary, #1565c0) !important;
+  background-color: var(--hb-primary) !important;
+  border: 2px solid var(--hb-primary) !important;
 }
 
 /* Target wrapper border */
 .skills-wrapper {
-  border-color: var(--hb-primary, #1565c0) !important;
+  border-color: var(--hb-primary) !important;
 }
 
 /* Hide percentage text */

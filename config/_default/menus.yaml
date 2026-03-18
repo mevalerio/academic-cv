@@ -23,7 +23,7 @@ main:
     url: '#collab'
     weight: 15
   - name: Posts
-    url: '/post/'
+    url: '#posts'
     weight: 16
 
 # Link to a PDF of your resume/CV from the menu.
