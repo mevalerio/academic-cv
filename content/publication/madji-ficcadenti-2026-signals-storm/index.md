@@ -2,7 +2,7 @@
 title: 'Signals in the storm: the impact of government announcements and COVID-19
   developments on financial markets'
 authors:
-- Thamila. Madji
+- Thamila Madji
 - Valerio Ficcadenti
 date: '2026-03-17'
 publishDate: '2026-03-18T16:09:17.977083Z'
