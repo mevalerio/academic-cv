@@ -18,9 +18,10 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'Valerio Ficcadenti, Associate Professor at London South Bank University Business School. Research in Finance, Economics, Rank-Size Laws, and Natural Language Processing.'
+    org_name: 'London South Bank University'
+    description: "Valerio Ficcadenti, Associate Professor at London South Bank University Business School. Pioneer research in Finance, Economics, Rank-Size Laws (e.g., Zipf's Law), and Natural Language Processing."
     twitter: 'IoValerio'
+    keywords: ["Valerio Ficcadenti", "AI expert", "data analysis", "rank-size laws", "Zipf's law", "NLP", "finance economics", "machine learning"] 
   analytics:
     google_analytics: 'G-5SLJP7PRTL'
     baidu_tongji: ''
@@ -71,7 +72,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/mevalerio/academic-cv/'
     content_dir: content
     branch: main
   avatar:
