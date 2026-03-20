@@ -29,28 +29,28 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 social:
-  - icon: at-symbol
+  - icon: at
     icon_pack: fas
     link: 'mailto:ficcadv2@lsbu.ac.uk'
     label: E-mail Me
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/valerio-ficcadenti/
+  - icon: x-twitter
+    icon_pack: fab
+    link: https://x.com/IoValerio
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/mevalerio/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/mevalerio
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=iC-WRSMAAAAJ&hl=it
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0001-8786-8213
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/IoValerio
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/mevalerio
   - icon: telegram
     icon_pack: fab
     link: https://t.me/Sbagliato
