@@ -6,7 +6,7 @@
 
 **Professional academic website showcasing research, teaching, and industry experience in business research methods, quantitative finance, and data science.**
 
-🌐 **[View Live Website →](https://your-website-url.com)**
+🌐 **[View Live Website →](https://valerioficcadenti.com)**
 
 ## About
 
