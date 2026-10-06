@@ -123,7 +123,7 @@ sections:
             <span class="exp-card-icon">📝</span>
             <h3 class="exp-card-title">PhD Examination</h3>
             <p class="exp-card-subtitle">Internal & external duties</p>
-            <p class="exp-card-stats">3 internal • 1 external</p>
+            <p class="exp-card-stats">3 internal • 2 external</p>
           </a>
           
           <a href="#editorial" class="exp-card editorial">
@@ -424,6 +424,13 @@ sections:
       date_format: Jan 2006
       # External Examiner roles
       items:
+        - title: "Dr Laura Molero Gonzales"
+          organization: "Sapienza University of Rome (Italy)"
+          date_start: '2026-08-01'
+          description: |2-
+            **External Examiner**  
+            Served as external examiner for PhD thesis examination at Sapienza University of Rome, providing independent academic assessment and contributing to international academic collaboration in doctoral evaluation processes.
+            
         - title: "Dr Patrick Donkor"
           organization: "University of Macerata (Italy)"
           date_start: '2024-08-01'
