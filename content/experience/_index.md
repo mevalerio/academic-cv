@@ -125,6 +125,12 @@ sections:
             <p class="exp-card-subtitle">Internal & external duties</p>
             <p class="exp-card-stats">3 internal • 1 external</p>
           </a>
+          
+          <a href="#editorial" class="exp-card editorial">
+            <span class="exp-card-icon">📖</span>
+            <h3 class="exp-card-title">Editorial Activities</h3>
+            <p class="exp-card-subtitle">Journal editing & reviewing</p>
+          </a>
         </div>
     design:
       columns: '1'
@@ -141,13 +147,7 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Scientific Editor
-          company: International Review of Economics & Finance
-          company_url: 'https://www.sciencedirect.com/journal/international-review-of-economics-and-finance/about/editorial-board'
-          date_start: '2025-04-01'
-          date_end: ''
-        - title: Associate Professor in Business Research Methods
+      items:        - title: Associate Professor in Business Research Methods
           company: Business School - London South Bank University (UK)
           company_url: 'https://www.lsbu.ac.uk/our-schools/business'
           company_logo: 'lsbu'
@@ -431,4 +431,19 @@ sections:
             Served as external examiner for PhD thesis examination at the University of Macerata, providing independent academic assessment and contributing to international academic collaboration in doctoral evaluation processes.
     design:
       columns: '1'
+
+  - block: experience
+    id: editorial
+    content:
+      title: Editorial Activities
+      date_format: Jan 2006
+      items:
+        - title: Scientific Editor
+          company: International Review of Economics & Finance
+          company_url: 'https://www.sciencedirect.com/journal/international-review-of-economics-and-finance/about/editorial-board'
+          date_start: '2025-04-01'
+          date_end: ''
+    design:
+      columns: '1'
+
 ---
