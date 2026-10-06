@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Prof. Massimiliano Giacalone
+title: Dr. Massimiliano Giacalone
 
 # Full name (for SEO)
 first_name: Massimiliano
