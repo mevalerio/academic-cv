@@ -147,7 +147,8 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:        - title: Associate Professor in Business Research Methods
+      items:
+        - title: Associate Professor in Business Research Methods
           company: Business School - London South Bank University (UK)
           company_url: 'https://www.lsbu.ac.uk/our-schools/business'
           company_logo: 'lsbu'
